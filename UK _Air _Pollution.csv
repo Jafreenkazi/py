@@ -1,0 +1,1192 @@
+Year ,Site_id,Region,Site Type,PM10 Daily Measured,PM2.5 Daily Measured,PM10 Hourly Measured,PM2.5 Hourly Measured,NO2,SO2,O3,Total Days
+2010,ABD,Aberdeen,Urban Background,n/m,n/m,1,0,-,n/m,0,1
+2010,ARM6,Armagh Roadside,Urban Traffic,n/m,n/m,35,n/m,0,n/m,n/m,35
+2010,BEL2,Belfast Centre,Urban Background,n/m,n/m,-,15,0,0,1,16
+2010,BIR1,Birmingham Tyburn,Urban Background,n/m,n/m,-,-,4,0,8,12
+2010,BIRT,Birmingham Tyburn Roadside,Urban Traffic,n/m,n/m,1,8,1,n/m,4,13
+2010,BRS8,Bristol St Paul's,Urban Background,n/m,n/m,4,16,0,0,8,23
+2010,BURY,Bury Roadside,Urban Traffic,n/m,n/m,2,6,9,n/m,n/m,13
+2010,CA1,Camden Kerbside,Urban Traffic,n/m,n/m,10,-,37,n/m,n/m,45
+2010,CARD,Cardiff Centre,Urban Background,n/m,n/m,-,6,0,0,4,10
+2010,CARL,Carlisle Roadside,Urban Traffic,n/m,n/m,16,17,0,n/m,n/m,23
+2010,CHAT,Chatham Roadside,Urban Traffic,n/m,n/m,-,-,-,n/m,n/m,-
+2010,CHP,Chepstow A48,Urban Traffic,n/m,n/m,-,-,0,n/m,n/m,0
+2010,CHS6,Chesterfield,Urban Background,n/m,n/m,8,10,0,n/m,n/m,11
+2010,CHS7,Chesterfield Roadside,Urban Traffic,n/m,n/m,-,8,0,n/m,n/m,8
+2010,DERY,Derry,Urban Background,n/m,n/m,-,-,0,0,-,0
+2010,EB,Eastbourne,Urban Background,n/m,n/m,-,9,-,n/m,n/m,9
+2010,ED3,Edinburgh St Leonards,Urban Background,n/m,n/m,0,0,0,0,0,0
+2010,GLA3,Glasgow Centre,Urban Background,n/m,n/m,-,17,10,0,0,19
+2010,GLA4,Glasgow Kerbside,Urban Traffic,n/m,n/m,25,46,42,n/m,n/m,72
+2010,GRAN,Grangemouth,Urban Industrial,n/m,n/m,1,4,0,16,n/m,20
+2010,HG1,Haringey Roadside,Urban Traffic,n/m,n/m,9,21,0,n/m,n/m,21
+2010,HUL2,Hull Freetown,Urban Background,n/m,n/m,4,6,2,0,0,7
+2010,INV2,Inverness,Urban Traffic,2,0,n/m,n/m,0,n/m,n/m,2
+2010,LEAM,Leamington Spa,Urban Background,n/m,n/m,1,11,0,0,11,22
+2010,LEED,Leeds Centre,Urban Background,n/m,n/m,4,13,1,0,2,16
+2010,LED6,Leeds Headingley Kerbside,Urban Traffic,n/m,n/m,-,19,0,n/m,n/m,19
+2010,LEIC,Leicester Centre,Urban Background,n/m,n/m,3,-,0,0,0,3
+2010,LVP,Liverpool Speke,Urban Background,n/m,n/m,2,4,0,1,9,14
+2010,CLL2,London Bloomsbury,Urban Background,n/m,n/m,2,12,1,0,1,14
+2010,HRL,London Harlington,Urban Industrial,n/m,n/m,1,7,0,n/m,8,15
+2010,MY1,London Marylebone Road,Urban Traffic,15,-,22,-,133,0,0,140
+2010,KC1,London N. Kensington,Urban Background,2,6,-,10,0,0,5,16
+2010,MID,Middlesbrough,Urban Background,n/m,n/m,0,1,0,0,3,4
+2010,NEWC,Newcastle Centre,Urban Background,n/m,n/m,0,3,0,0,4,7
+2010,NPT3,Newport,Urban Background,n/m,n/m,-,9,3,n/m,n/m,12
+2010,NO12,Norwich Lakenfields,Urban Background,n/m,n/m,4,12,0,0,6,18
+2010,NOTT,Nottingham Centre,Urban Background,n/m,n/m,12,14,2,0,4,20
+2010,OX8,Oxford St Ebbes,Urban Background,n/m,n/m,1,12,0,n/m,n/m,12
+2010,PLYM,Plymouth Centre,Urban Background,n/m,n/m,-,2,0,n/m,0,2
+2010,PT4,Port Talbot Margam,Urban Industrial,11,-,-,0,0,1,6,16
+2010,PMTH,Portsmouth,Urban Background,n/m,n/m,-,-,0,n/m,5,5
+2010,REA1,Reading New Town,Urban Background,n/m,n/m,-,5,-,n/m,11,16
+2010,ECCL,Salford Eccles,Urban Industrial,n/m,n/m,3,8,2,0,3,13
+2010,SALT,Saltash Roadside,Urban Traffic,n/m,n/m,-,-,n/m,n/m,n/m,-
+2010,SDY,Sandy Roadside,Urban Traffic,n/m,n/m,2,14,1,n/m,n/m,15
+2010,SCN2,Scunthorpe Town,Urban Industrial,n/m,n/m,11,n/m,0,0,n/m,11
+2010,SHE2,Sheffield Centre,Urban Background,n/m,n/m,10,15,1,0,2,18
+2010,SOUT,Southampton Centre,Urban Background,n/m,n/m,1,6,0,0,-,6
+2010,HOPE,Stanford-le-Hope Roadside,Urban Traffic,n/m,n/m,4,-,0,0,n/m,4
+2010,EAGL,Stockton-on-Tees Eaglescliffe,Urban Traffic,n/m,n/m,1,2,1,n/m,n/m,4
+2010,STOK,Stoke-on-Trent Centre,Urban Background,n/m,n/m,5,12,0,n/m,2,14
+2010,STOR,Storrington Roadside,Urban Traffic,n/m,n/m,2,7,0,n/m,n/m,7
+2010,SWA1,Swansea Roadside,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2010,THUR,Thurrock,Urban Background,n/m,n/m,7,n/m,0,0,7,14
+2010,WAR,Warrington,Urban Background,n/m,n/m,-,12,3,n/m,n/m,13
+2010,WREX,Wrexham,Urban Traffic,0,5,n/m,n/m,0,0,n/m,5
+2010,YK10,York Bootham,Urban Background,n/m,n/m,3,7,n/m,n/m,n/m,7
+2010,YK11,York Fishergate,Urban Traffic,n/m,n/m,3,n/m,0,n/m,n/m,3
+2010,AH,Aston Hill,Rural Background,n/m,n/m,n/m,n/m,0,n/m,6,6
+2010,ACTH,Auchencorth Moss,Rural Background,0,0,-,-,n/m,n/m,3,3
+2010,BUSH,Bush Estate,Rural Background,n/m,n/m,n/m,n/m,0,n/m,1,1
+2010,MACK,Charlton Mackrell,Rural Background,n/m,n/m,n/m,n/m,-,n/m,16,16
+2010,ESK,Eskdalemuir,Rural Background,n/m,n/m,n/m,n/m,0,n/m,2,2
+2010,GDF,Great Dun Fell,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,1,1
+2010,HAR,Harwell,Rural Background,0,3,3,5,0,0,15,20
+2010,HM,High Muffles,Rural Background,n/m,n/m,n/m,n/m,0,n/m,8,8
+2010,LB,Ladybower,Rural Background,n/m,n/m,n/m,n/m,0,0,10,10
+2010,LERW,Lerwick,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,1,1
+2010,LN,Lough Navar,Rural Background,n/m,n/m,0,n/m,n/m,n/m,11,11
+2010,LH,Lullington Heath,Rural Background,n/m,n/m,n/m,n/m,0,0,-,0
+2010,MKTH,Market Harborough,Rural Background,n/m,n/m,n/m,n/m,0,n/m,11,11
+2010,PEMB,Narberth,Rural Background,n/m,n/m,-,n/m,0,0,7,7
+2010,ROCH,Rochester Stoke,Rural Background,n/m,n/m,-,-,-,-,-,-
+2010,SIB,Sibton,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,14,14
+2010,OSY,St Osyth,Rural Background,n/m,n/m,n/m,n/m,0,n/m,5,5
+2010,SV,Strathvaich,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,4,4
+2010,WEYB,Weybourne,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,47,47
+2010,WFEN,Wicken Fen,Rural Background,n/m,n/m,n/m,n/m,0,0,16,16
+2010,YW,Yarner Wood,Rural Background,n/m,n/m,n/m,n/m,0,n/m,21,21
+2011,ABD,Aberdeen,Urban Background,n/m,n/m,1,0,0,n/m,4,5
+2011,ARM6,Armagh Roadside,Urban Traffic,n/m,n/m,15,n/m,0,n/m,n/m,15
+2011,BEL2,Belfast Centre,Urban Background,n/m,n/m,-,12,0,0,4,15
+2011,BIR1,Birmingham Tyburn,Urban Background,n/m,n/m,18,25,3,0,11,36
+2011,BIRT,Birmingham Tyburn Roadside,Urban Traffic,n/m,n/m,18,21,2,n/m,5,26
+2011,BRS8,Bristol St Paul's,Urban Background,n/m,n/m,-,17,0,0,9,26
+2011,BURY,Bury Roadside,Urban Traffic,n/m,n/m,14,27,5,n/m,n/m,32
+2011,CA1,Camden Kerbside,Urban Traffic,n/m,n/m,31,22,23,n/m,n/m,52
+2011,CARD,Cardiff Centre,Urban Background,n/m,n/m,-,-,0,0,5,5
+2011,CARL,Carlisle Roadside,Urban Traffic,n/m,n/m,11,11,0,n/m,n/m,15
+2011,CHAT,Chatham Roadside,Urban Traffic,n/m,n/m,20,30,0,n/m,n/m,30
+2011,CHP,Chepstow A48,Urban Traffic,n/m,n/m,10,20,0,n/m,n/m,20
+2011,CHS6,Chesterfield,Urban Background,n/m,n/m,13,25,0,n/m,n/m,25
+2011,CHS7,Chesterfield Roadside,Urban Traffic,n/m,n/m,-,15,0,n/m,n/m,15
+2011,DERY,Derry,Urban Background,n/m,n/m,6,-,0,0,9,15
+2011,EB,Eastbourne,Urban Background,n/m,n/m,-,29,-,n/m,n/m,29
+2011,ED3,Edinburgh St Leonards,Urban Background,n/m,n/m,0,2,0,0,0,2
+2011,GLA3,Glasgow Centre,Urban Background,n/m,n/m,2,8,0,0,2,9
+2011,GLA4,Glasgow Kerbside,Urban Traffic,n/m,n/m,-,34,21,n/m,n/m,49
+2011,GRAN,Grangemouth,Urban Industrial,n/m,n/m,2,5,0,18,n/m,23
+2011,HG1,Haringey Roadside,Urban Traffic,n/m,n/m,-,-,-,n/m,n/m,-
+2011,HUL2,Hull Freetown,Urban Background,n/m,n/m,8,18,0,0,-,18
+2011,INV2,Inverness,Urban Traffic,0,0,n/m,n/m,0,n/m,n/m,0
+2011,LEAM,Leamington Spa,Urban Background,n/m,n/m,-,-,0,0,24,24
+2011,LEED,Leeds Centre,Urban Background,n/m,n/m,16,27,0,0,5,30
+2011,LED6,Leeds Headingley Kerbside,Urban Traffic,n/m,n/m,26,35,0,n/m,n/m,38
+2011,LEIC,Leicester Centre,Urban Background,n/m,n/m,8,20,-,0,2,20
+2011,LVP,Liverpool Speke,Urban Background,n/m,n/m,8,18,0,1,12,27
+2011,CLL2,London Bloomsbury,Urban Background,n/m,n/m,17,34,0,0,3,35
+2011,HRL,London Harlington,Urban Industrial,n/m,n/m,-,24,0,n/m,11,32
+2011,MY1,London Marylebone Road,Urban Traffic,34,35,57,51,82,0,-,120
+2011,KC1,London N. Kensington,Urban Background,14,21,17,31,0,0,21,48
+2011,MID,Middlesbrough,Urban Background,n/m,n/m,11,12,0,0,7,18
+2011,NEWC,Newcastle Centre,Urban Background,n/m,n/m,6,13,0,0,1,15
+2011,NPT3,Newport,Urban Background,n/m,n/m,8,-,0,n/m,n/m,8
+2011,NO12,Norwich Lakenfields,Urban Background,n/m,n/m,12,23,0,0,3,25
+2011,NOTT,Nottingham Centre,Urban Background,n/m,n/m,21,20,0,0,2,25
+2011,OX8,Oxford St Ebbes,Urban Background,n/m,n/m,5,6,0,n/m,n/m,7
+2011,PLYM,Plymouth Centre,Urban Background,n/m,n/m,7,10,0,n/m,3,13
+2011,PT4,Port Talbot Margam,Urban Industrial,32,n/m,29,11,0,0,18,54
+2011,PMTH,Portsmouth,Urban Background,n/m,n/m,-,21,0,n/m,9,29
+2011,REA1,Reading New Town,Urban Background,n/m,n/m,8,18,0,n/m,16,30
+2011,ECCL,Salford Eccles,Urban Industrial,n/m,n/m,13,25,0,0,3,26
+2011,SDY,Sandy Roadside,Urban Traffic,n/m,n/m,-,-,0,n/m,n/m,0
+2011,SCN2,Scunthorpe Town,Urban Industrial,n/m,n/m,18,n/m,0,-,n/m,18
+2011,SHE2,Sheffield Centre,Urban Background,n/m,n/m,19,28,0,0,2,30
+2011,SOUT,Southampton Centre,Urban Background,n/m,n/m,7,27,0,0,1,28
+2011,SK5,Southwark A2 Old Kent Road,Urban Traffic,n/m,n/m,31,n/m,-,n/m,n/m,31
+2011,HOPE,Stanford-le-Hope Roadside,Urban Traffic,n/m,n/m,18,36,0,0,n/m,36
+2011,EAGL,Stockton-on-Tees Eaglescliffe,Urban Traffic,n/m,n/m,3,14,1,n/m,n/m,15
+2011,STOK,Stoke-on-Trent Centre,Urban Background,n/m,n/m,13,21,0,n/m,8,26
+2011,STOR,Storrington Roadside,Urban Traffic,n/m,n/m,15,22,0,n/m,n/m,23
+2011,SWA1,Swansea Roadside,Urban Traffic,n/m,n/m,-,-,1,n/m,n/m,1
+2011,THUR,Thurrock,Urban Background,n/m,n/m,25,n/m,0,0,11,31
+2011,WAR,Warrington,Urban Background,n/m,n/m,9,19,0,n/m,n/m,19
+2011,WREX,Wrexham,Urban Traffic,12,12,n/m,n/m,0,0,n/m,16
+2011,YK10,York Bootham,Urban Background,n/m,n/m,8,-,n/m,n/m,n/m,8
+2011,YK11,York Fishergate,Urban Traffic,n/m,n/m,-,-,0,n/m,n/m,0
+2011,AH,Aston Hill,Rural Background,n/m,n/m,n/m,n/m,0,n/m,17,17
+2011,ACTH,Auchencorth Moss,Rural Background,0,0,0,0,-,n/m,6,6
+2011,BUSH,Bush Estate,Rural Background,n/m,n/m,n/m,n/m,0,n/m,12,12
+2011,MACK,Charlton Mackrell,Rural Background,n/m,n/m,n/m,n/m,0,n/m,22,22
+2011,ESK,Eskdalemuir,Rural Background,n/m,n/m,n/m,n/m,0,n/m,10,10
+2011,GDF,Great Dun Fell,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,0,0
+2011,HAR,Harwell,Rural Background,5,9,9,16,-,0,23,36
+2011,HM,High Muffles,Rural Background,n/m,n/m,n/m,n/m,0,n/m,20,20
+2011,LB,Ladybower,Rural Background,n/m,n/m,n/m,n/m,0,1,18,19
+2011,LERW,Lerwick,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,13,13
+2011,LN,Lough Navar,Rural Background,n/m,n/m,-,n/m,n/m,n/m,12,12
+2011,LH,Lullington Heath,Rural Background,n/m,n/m,n/m,n/m,0,0,17,17
+2011,MKTH,Market Harborough,Rural Background,n/m,n/m,n/m,n/m,0,n/m,7,7
+2011,PEMB,Narberth,Rural Background,n/m,n/m,-,n/m,0,0,18,18
+2011,ROCH,Rochester Stoke,Rural Background,n/m,n/m,-,15,0,0,12,27
+2011,SIB,Sibton,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,29,29
+2011,OSY,St Osyth,Rural Background,n/m,n/m,n/m,n/m,0,n/m,11,11
+2011,SV,Strathvaich,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,14,14
+2011,WEYB,Weybourne,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,42,42
+2011,WFEN,Wicken Fen,Rural Background,n/m,n/m,n/m,n/m,0,0,18,18
+2011,YW,Yarner Wood,Rural Background,n/m,n/m,n/m,n/m,0,n/m,-,0
+2012,ABD,Aberdeen,Urban Background,n/m,n/m,1,2,0,n/m,2,4
+2012,ARM6,Armagh Roadside,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2012,BEL2,Belfast Centre,Urban Background,n/m,n/m,7,8,2,0,1,9
+2012,BIR1,Birmingham Tyburn,Urban Background,n/m,n/m,9,13,0,0,8,21
+2012,BIRT,Birmingham Tyburn Roadside,Urban Traffic,n/m,n/m,13,12,1,n/m,2,17
+2012,BRS8,Bristol St Paul's,Urban Background,n/m,n/m,8,17,0,-,5,23
+2012,BURY,Bury Roadside,Urban Traffic,n/m,n/m,-,-,-,n/m,n/m,-
+2012,CA1,Camden Kerbside,Urban Traffic,n/m,n/m,20,13,19,n/m,n/m,38
+2012,CARD,Cardiff Centre,Urban Background,n/m,n/m,5,-,3,0,7,15
+2012,CARL,Carlisle Roadside,Urban Traffic,n/m,n/m,3,8,0,n/m,n/m,9
+2012,CHAT,Chatham Roadside,Urban Traffic,n/m,n/m,14,18,0,n/m,n/m,19
+2012,CHP,Chepstow A48,Urban Traffic,n/m,n/m,3,10,-,n/m,n/m,10
+2012,CHS6,Chesterfield,Urban Background,n/m,n/m,-,18,0,n/m,n/m,18
+2012,CHS7,Chesterfield Roadside,Urban Traffic,n/m,n/m,12,19,0,n/m,n/m,19
+2012,DERY,Derry,Urban Background,n/m,n/m,-,15,0,0,5,20
+2012,EB,Eastbourne,Urban Background,n/m,n/m,11,20,0,n/m,n/m,21
+2012,ED3,Edinburgh St Leonards,Urban Background,n/m,n/m,-,-,0,0,4,4
+2012,GLA3,Glasgow Centre,Urban Background,n/m,n/m,-,-,-,-,-,-
+2012,GLA4,Glasgow Kerbside,Urban Traffic,n/m,n/m,-,21,10,n/m,n/m,27
+2012,GRAN,Grangemouth,Urban Industrial,n/m,n/m,2,5,0,18,n/m,22
+2012,HG1,Haringey Roadside,Urban Traffic,n/m,n/m,11,20,0,n/m,n/m,20
+2012,HUL2,Hull Freetown,Urban Background,n/m,n/m,0,2,0,0,4,6
+2012,INV2,Inverness,Urban Traffic,1,1,n/m,n/m,0,n/m,n/m,2
+2012,LEAM,Leamington Spa,Urban Background,n/m,n/m,4,9,0,0,12,21
+2012,LEAR,Leamington Spa Rugby Road,Urban Traffic,n/m,n/m,-,-,-,n/m,n/m,-
+2012,LEED,Leeds Centre,Urban Background,n/m,n/m,7,19,0,0,8,27
+2012,LED6,Leeds Headingley Kerbside,Urban Traffic,n/m,n/m,18,17,0,n/m,n/m,21
+2012,LEIC,Leicester Centre,Urban Background,n/m,n/m,3,15,0,-,3,18
+2012,LVP,Liverpool Speke,Urban Industrial,n/m,n/m,4,10,0,0,2,12
+2012,CLL2,London Bloomsbury,Urban Background,n/m,n/m,10,21,1,0,7,29
+2012,HRL,London Harlington,Urban Industrial,n/m,n/m,12,16,0,n/m,5,21
+2012,MY1,London Marylebone Road,Urban Traffic,27,13,23,30,63,0,0,92
+2012,KC1,London N. Kensington,Urban Background,11,12,12,19,1,0,14,35
+2012,MID,Middlesbrough,Urban Industrial,n/m,n/m,8,9,0,0,4,16
+2012,NEWC,Newcastle Centre,Urban Background,n/m,n/m,3,5,0,-,2,7
+2012,NPT3,Newport,Urban Background,n/m,n/m,2,6,0,n/m,n/m,6
+2012,NO12,Norwich Lakenfields,Urban Background,n/m,n/m,1,9,0,-,9,18
+2012,NOTT,Nottingham Centre,Urban Background,n/m,n/m,-,12,0,0,5,17
+2012,OX8,Oxford St Ebbes,Urban Background,n/m,n/m,5,10,0,n/m,n/m,10
+2012,PLYM,Plymouth Centre,Urban Background,n/m,n/m,8,-,0,n/m,4,12
+2012,PT4,Port Talbot Margam,Urban Industrial,10,n/m,11,6,0,0,5,22
+2012,PMTH,Portsmouth,Urban Background,n/m,n/m,9,15,0,n/m,8,25
+2012,REA1,Reading New Town,Urban Background,n/m,n/m,8,18,0,n/m,13,31
+2012,ECCL,Salford Eccles,Urban Industrial,n/m,n/m,6,14,2,0,6,21
+2012,SDY,Sandy Roadside,Urban Traffic,n/m,n/m,5,-,0,n/m,n/m,5
+2012,SCN2,Scunthorpe Town,Urban Industrial,n/m,n/m,8,n/m,0,0,n/m,8
+2012,SHE2,Sheffield Centre,Urban Background,n/m,n/m,12,19,-,-,3,23
+2012,SOUT,Southampton Centre,Urban Background,n/m,n/m,11,18,0,0,8,26
+2012,SK5,Southwark A2 Old Kent Road,Urban Traffic,n/m,n/m,19,n/m,6,n/m,n/m,24
+2012,HOPE,Stanford-le-Hope Roadside,Urban Traffic,n/m,n/m,15,13,0,1,n/m,18
+2012,EAGL,Stockton-on-Tees Eaglescliffe,Urban Traffic,n/m,n/m,3,9,0,n/m,n/m,9
+2012,STOK,Stoke-on-Trent Centre,Urban Background,n/m,n/m,10,18,0,n/m,5,23
+2012,STOR,Storrington Roadside,Urban Traffic,n/m,n/m,9,20,0,n/m,n/m,22
+2012,SWA1,Swansea Roadside,Urban Traffic,n/m,n/m,4,8,0,n/m,n/m,8
+2012,THUR,Thurrock,Urban Background,n/m,n/m,10,n/m,0,0,8,18
+2012,WAR,Warrington,Urban Industrial,n/m,n/m,8,15,0,n/m,n/m,15
+2012,WREX,Wrexham,Urban Traffic,4,8,n/m,n/m,0,0,n/m,8
+2012,YK10,York Bootham,Urban Background,n/m,n/m,3,9,n/m,n/m,n/m,9
+2012,YK11,York Fishergate,Urban Traffic,n/m,n/m,8,14,0,n/m,n/m,17
+2012,AH,Aston Hill,Rural Background,n/m,n/m,n/m,n/m,0,n/m,11,11
+2012,ACTH,Auchencorth Moss,Rural Background,1,1,1,1,-,n/m,5,6
+2012,BUSH,Bush Estate,Rural Background,n/m,n/m,n/m,n/m,0,n/m,7,7
+2012,MACK,Charlton Mackrell,Rural Background,n/m,n/m,n/m,n/m,0,n/m,10,10
+2012,ESK,Eskdalemuir,Rural Background,n/m,n/m,n/m,n/m,0,n/m,7,7
+2012,GDF,Great Dun Fell,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,-,-
+2012,HAR,Harwell,Rural Background,2,7,4,10,-,1,13,24
+2012,HM,High Muffles,Rural Background,n/m,n/m,n/m,n/m,0,n/m,17,17
+2012,LB,Ladybower,Rural Background,n/m,n/m,n/m,n/m,0,0,7,7
+2012,LERW,Lerwick,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,-,-
+2012,LN,Lough Navar,Rural Background,n/m,n/m,0,n/m,n/m,n/m,8,8
+2012,LH,Lullington Heath,Rural Background,n/m,n/m,n/m,n/m,0,0,12,12
+2012,MKTH,Market Harborough,Rural Background,n/m,n/m,n/m,n/m,-,n/m,-,-
+2012,PEMB,Narberth,Rural Background,n/m,n/m,1,n/m,0,0,7,7
+2012,ROCH,Rochester Stoke,Rural Background,n/m,n/m,4,12,0,0,13,25
+2012,SIB,Sibton,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,13,13
+2012,OSY,St Osyth,Rural Background,n/m,n/m,n/m,n/m,0,n/m,17,17
+2012,SV,Strathvaich,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,12,12
+2012,WEYB,Weybourne,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,31,31
+2012,WFEN,Wicken Fen,Rural Background,n/m,n/m,n/m,n/m,0,0,9,9
+2012,YW,Yarner Wood,Rural Background,n/m,n/m,n/m,n/m,0,n/m,25,25
+2013,ABD,Aberdeen,Urban Background,n/m,n/m,1,0,-,n/m,0,1
+2013,ARM6,Armagh Roadside,Urban Traffic,n/m,n/m,5,n/m,1,n/m,n/m,6
+2013,BPLE,Barnstaple A39,Urban Traffic,n/m,n/m,-,-,n/m,n/m,n/m,-
+2013,BEL2,Belfast Centre,Urban Background,n/m,n/m,-,3,1,0,1,5
+2013,BIR1,Birmingham Tyburn,Urban Background,n/m,n/m,7,11,0,0,11,24
+2013,BIRT,Birmingham Tyburn Roadside,Urban Traffic,n/m,n/m,8,15,1,n/m,0,17
+2013,BRS8,Bristol St Paul's,Urban Background,n/m,n/m,2,9,0,n/m,8,17
+2013,CA1,Camden Kerbside,Urban Traffic,n/m,n/m,7,20,25,n/m,n/m,41
+2013,CARD,Cardiff Centre,Urban Background,n/m,n/m,2,8,0,0,4,12
+2013,CARL,Carlisle Roadside,Urban Traffic,n/m,n/m,-,5,0,n/m,n/m,5
+2013,CHAT,Chatham Roadside,Urban Traffic,n/m,n/m,10,15,0,n/m,n/m,15
+2013,CHP,Chepstow A48,Urban Traffic,n/m,n/m,4,9,0,n/m,n/m,9
+2013,CHS6,Chesterfield,Urban Background,n/m,n/m,4,-,0,n/m,n/m,4
+2013,CHS7,Chesterfield Roadside,Urban Traffic,n/m,n/m,4,9,0,n/m,n/m,12
+2013,DERY,Derry,Urban Background,n/m,n/m,1,9,0,0,1,11
+2013,EB,Eastbourne,Urban Background,n/m,n/m,-,14,0,n/m,n/m,14
+2013,ED3,Edinburgh St Leonards,Urban Background,n/m,n/m,3,3,0,0,1,4
+2013,GLA4,Glasgow Kerbside,Urban Traffic,n/m,n/m,3,8,11,n/m,n/m,21
+2013,GLKP,Glasgow Townhead,Urban Background,n/m,n/m,-,-,-,n/m,-,-
+2013,GRAN,Grangemouth,Urban Industrial,n/m,n/m,0,-,0,4,n/m,4
+2013,HG1,Haringey Roadside,Urban Traffic,n/m,n/m,-,20,1,n/m,n/m,20
+2013,HUL2,Hull Freetown,Urban Background,n/m,n/m,3,9,0,0,9,19
+2013,INV2,Inverness,Urban Traffic,0,0,n/m,n/m,0,n/m,n/m,0
+2013,LEAM,Leamington Spa,Urban Background,n/m,n/m,5,11,-,n/m,28,40
+2013,LEAR,Leamington Spa Rugby Road,Urban Traffic,n/m,n/m,-,9,0,n/m,n/m,9
+2013,LEED,Leeds Centre,Urban Background,n/m,n/m,-,-,0,0,1,1
+2013,LED6,Leeds Headingley Kerbside,Urban Traffic,n/m,n/m,3,-,0,n/m,n/m,3
+2013,LEIC,Leicester Centre,Urban Background,n/m,n/m,-,-,-,n/m,-,-
+2013,LECU,Leicester University,Urban Background,n/m,n/m,-,-,-,n/m,-,-
+2013,LVP,Liverpool Speke,Urban Industrial,n/m,n/m,6,10,0,0,3,13
+2013,CLL2,London Bloomsbury,Urban Background,n/m,n/m,3,-,0,0,1,4
+2013,HRL,London Harlington,Urban Industrial,n/m,n/m,5,12,1,n/m,12,26
+2013,MY1,London Marylebone Road,Urban Traffic,19,20,20,18,30,0,0,57
+2013,KC1,London N. Kensington,Urban Background,7,6,-,16,0,0,10,27
+2013,MID,Middlesbrough,Urban Industrial,n/m,n/m,-,-,0,0,4,4
+2013,NEWC,Newcastle Centre,Urban Background,n/m,n/m,2,5,0,n/m,2,7
+2013,NPT3,Newport,Urban Background,n/m,n/m,-,6,0,n/m,n/m,6
+2013,NO12,Norwich Lakenfields,Urban Background,n/m,n/m,3,12,0,n/m,3,16
+2013,NOTT,Nottingham Centre,Urban Background,n/m,n/m,8,9,0,0,4,13
+2013,OX8,Oxford St Ebbes,Urban Background,n/m,n/m,-,7,0,n/m,n/m,7
+2013,PLYM,Plymouth Centre,Urban Background,n/m,n/m,1,4,0,n/m,4,8
+2013,PT4,Port Talbot Margam,Urban Industrial,32,n/m,17,3,0,0,5,39
+2013,PMTH,Portsmouth,Urban Background,n/m,n/m,-,11,0,n/m,-,11
+2013,REA1,Reading New Town,Urban Background,n/m,n/m,4,5,0,n/m,11,16
+2013,ECCL,Salford Eccles,Urban Background,n/m,n/m,5,8,0,n/m,3,13
+2013,SASH,Saltash Callington Road,Urban Traffic,n/m,n/m,-,3,n/m,n/m,n/m,3
+2013,SDY,Sandy Roadside,Urban Traffic,n/m,n/m,-,9,0,n/m,n/m,9
+2013,SCN2,Scunthorpe Town,Urban Industrial,n/m,n/m,15,n/m,1,0,n/m,16
+2013,SHE2,Sheffield Centre,Urban Background,n/m,n/m,-,-,-,n/m,-,-
+2013,SHDG,Sheffield Devonshire Green,Urban Background,n/m,n/m,-,-,-,n/m,-,-
+2013,SOUT,Southampton Centre,Urban Background,n/m,n/m,3,15,0,0,2,17
+2013,SK5,Southwark A2 Old Kent Road,Urban Traffic,n/m,n/m,26,n/m,4,n/m,n/m,30
+2013,HOPE,Stanford-le-Hope Roadside,Urban Traffic,n/m,n/m,15,14,0,n/m,n/m,22
+2013,EAGL,Stockton-on-Tees Eaglescliffe,Urban Traffic,n/m,n/m,5,7,0,n/m,n/m,7
+2013,STOK,Stoke-on-Trent Centre,Urban Background,n/m,n/m,4,7,0,n/m,1,8
+2013,STOR,Storrington Roadside,Urban Traffic,n/m,n/m,-,17,0,n/m,n/m,17
+2013,SWA1,Swansea Roadside,Urban Traffic,n/m,n/m,2,4,0,n/m,n/m,4
+2013,THUR,Thurrock,Urban Background,n/m,n/m,3,n/m,0,0,5,8
+2013,WAR,Warrington,Urban Industrial,n/m,n/m,7,13,0,n/m,n/m,13
+2013,WREX,Wrexham,Urban Traffic,10,9,n/m,n/m,0,0,n/m,14
+2013,YK10,York Bootham,Urban Background,n/m,n/m,3,4,n/m,n/m,n/m,4
+2013,YK11,York Fishergate,Urban Traffic,n/m,n/m,4,8,0,n/m,n/m,10
+2013,AH,Aston Hill,Rural Background,n/m,n/m,n/m,n/m,0,n/m,18,18
+2013,ACTH,Auchencorth Moss,Rural Background,-,1,-,-,-,n/m,4,5
+2013,BUSH,Bush Estate,Rural Background,n/m,n/m,n/m,n/m,0,n/m,13,13
+2013,MACK,Charlton Mackrell,Rural Background,n/m,n/m,n/m,n/m,0,n/m,27,27
+2013,ESK,Eskdalemuir,Rural Background,n/m,n/m,n/m,n/m,0,n/m,14,14
+2013,GDF,Great Dun Fell,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,5,5
+2013,HAR,Harwell,Rural Background,1,4,-,-,-,0,13,17
+2013,HM,High Muffles,Rural Background,n/m,n/m,n/m,n/m,0,n/m,17,17
+2013,LB,Ladybower,Rural Background,n/m,n/m,n/m,n/m,0,0,6,6
+2013,LERW,Lerwick,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,-,-
+2013,LN,Lough Navar,Rural Background,n/m,n/m,1,n/m,n/m,n/m,4,5
+2013,LH,Lullington Heath,Rural Background,n/m,n/m,n/m,n/m,0,0,10,10
+2013,MKTH,Market Harborough,Rural Background,n/m,n/m,n/m,n/m,-,n/m,-,-
+2013,PEMB,Narberth,Rural Background,n/m,n/m,2,n/m,0,0,17,19
+2013,ROCH,Rochester Stoke,Rural Background,n/m,n/m,3,12,0,0,19,31
+2013,SIB,Sibton,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,19,19
+2013,OSY,St Osyth,Rural Background,n/m,n/m,n/m,n/m,0,n/m,17,17
+2013,SV,Strathvaich,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,19,19
+2013,WEYB,Weybourne,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,32,32
+2013,WFEN,Wicken Fen,Rural Background,n/m,n/m,n/m,n/m,-,-,27,27
+2013,YW,Yarner Wood,Rural Background,n/m,n/m,n/m,n/m,0,n/m,18,18
+2014,ABD,Aberdeen,Urban Background,n/m,n/m,0,0,0,n/m,0,0
+2014,ARM6,Armagh Roadside,Urban Traffic,n/m,n/m,-,n/m,-,n/m,n/m,-
+2014,BPLE,Barnstaple A39,Urban Traffic,n/m,n/m,1,4,n/m,n/m,n/m,4
+2014,BEL2,Belfast Centre,Urban Background,n/m,n/m,5,4,-,0,0,6
+2014,BEL1,Belfast Stockman's Lane,Urban Traffic,n/m,n/m,-,n/m,-,n/m,n/m,-
+2014,BIR1,Birmingham Tyburn,Urban Background,n/m,n/m,5,9,0,0,7,17
+2014,BIRT,Birmingham Tyburn Roadside,Urban Traffic,n/m,n/m,5,13,1,n/m,2,15
+2014,BRS8,Bristol St Paul's,Urban Background,n/m,n/m,4,-,0,n/m,9,13
+2014,CA1,Camden Kerbside,Urban Traffic,n/m,n/m,8,13,12,n/m,n/m,27
+2014,CARD,Cardiff Centre,Urban Background,n/m,n/m,3,7,0,0,5,13
+2014,CARL,Carlisle Roadside,Urban Traffic,n/m,n/m,-,5,0,n/m,n/m,5
+2014,CHAT,Chatham Roadside,Urban Traffic,n/m,n/m,14,19,0,n/m,n/m,20
+2014,CHP,Chepstow A48,Urban Traffic,n/m,n/m,1,6,0,n/m,n/m,6
+2014,CHS6,Chesterfield,Urban Background,n/m,n/m,-,-,-,n/m,n/m,-
+2014,CHS7,Chesterfield Roadside,Urban Traffic,n/m,n/m,10,9,0,n/m,n/m,12
+2014,DERY,Derry,Urban Background,n/m,n/m,0,7,0,-,0,7
+2014,EA8,Ealing Horn Lane,Urban Traffic,n/m,n/m,-,n/m,n/m,n/m,n/m,-
+2014,EB,Eastbourne,Urban Background,n/m,n/m,6,8,0,n/m,n/m,9
+2014,ED3,Edinburgh St Leonards,Urban Background,n/m,n/m,-,-,-,-,-,-
+2014,GLA4,Glasgow Kerbside,Urban Traffic,n/m,n/m,-,-,7,n/m,n/m,7
+2014,GLKP,Glasgow Townhead,Urban Background,n/m,n/m,0,1,0,n/m,3,4
+2014,GRAN,Grangemouth,Urban Industrial,n/m,n/m,0,3,0,2,n/m,5
+2014,HG1,Haringey Roadside,Urban Traffic,n/m,n/m,-,13,-,n/m,n/m,13
+2014,HUL2,Hull Freetown,Urban Background,n/m,n/m,4,10,0,0,5,15
+2014,INV2,Inverness,Urban Traffic,0,0,n/m,n/m,0,n/m,n/m,0
+2014,LEAM,Leamington Spa,Urban Background,n/m,n/m,2,10,0,n/m,9,19
+2014,LEAR,Leamington Spa Rugby Road,Urban Traffic,n/m,n/m,-,2,0,n/m,n/m,2
+2014,LEED,Leeds Centre,Urban Background,n/m,n/m,6,10,0,0,3,14
+2014,LED6,Leeds Headingley Kerbside,Urban Traffic,n/m,n/m,14,13,0,n/m,n/m,17
+2014,LECU,Leicester University,Urban Background,n/m,n/m,-,9,0,n/m,9,18
+2014,LVP,Liverpool Speke,Urban Industrial,n/m,n/m,6,8,0,0,2,11
+2014,CLL2,London Bloomsbury,Urban Background,n/m,n/m,8,18,0,0,1,20
+2014,HRL,London Harlington,Urban Industrial,n/m,n/m,5,15,0,n/m,8,25
+2014,MY1,London Marylebone Road,Urban Traffic,16,14,11,21,36,0,0,56
+2014,KC1,London N. Kensington,Urban Background,4,6,-,11,0,0,9,23
+2014,MID,Middlesbrough,Urban Industrial,n/m,n/m,-,8,0,0,4,12
+2014,NEWC,Newcastle Centre,Urban Background,n/m,n/m,1,4,0,n/m,-,4
+2014,NPT3,Newport,Urban Background,n/m,n/m,1,4,1,n/m,n/m,5
+2014,NO12,Norwich Lakenfields,Urban Background,n/m,n/m,0,2,0,n/m,5,7
+2014,NOTT,Nottingham Centre,Urban Background,n/m,n/m,8,9,1,0,3,15
+2014,OX8,Oxford St Ebbes,Urban Background,n/m,n/m,-,-,0,n/m,n/m,0
+2014,PLYM,Plymouth Centre,Urban Background,n/m,n/m,2,-,0,n/m,4,6
+2014,PT4,Port Talbot Margam,Urban Industrial,20,n/m,11,-,0,0,7,30
+2014,PMTH,Portsmouth,Urban Background,n/m,n/m,-,7,-,n/m,10,17
+2014,REA1,Reading New Town,Urban Background,n/m,n/m,3,-,0,n/m,6,9
+2014,ECCL,Salford Eccles,Urban Background,n/m,n/m,5,13,0,n/m,n/m,14
+2014,SASH,Saltash Callington Road,Urban Traffic,n/m,n/m,2,-,n/m,n/m,n/m,2
+2014,SDY,Sandy Roadside,Urban Traffic,n/m,n/m,-,8,0,n/m,n/m,8
+2014,SCN2,Scunthorpe Town,Urban Industrial,n/m,n/m,15,n/m,2,0,n/m,17
+2014,SHDG,Sheffield Devonshire Green,Urban Background,n/m,n/m,-,11,0,n/m,4,15
+2014,SOUT,Southampton Centre,Urban Background,n/m,n/m,5,12,0,0,2,15
+2014,SK5,Southwark A2 Old Kent Road,Urban Traffic,n/m,n/m,-,n/m,-,n/m,n/m,-
+2014,HOPE,Stanford-le-Hope Roadside,Urban Traffic,n/m,n/m,7,14,0,n/m,n/m,17
+2014,EAGL,Stockton-on-Tees Eaglescliffe,Urban Traffic,n/m,n/m,6,7,0,n/m,n/m,8
+2014,STOK,Stoke-on-Trent Centre,Urban Background,n/m,n/m,8,10,0,n/m,3,15
+2014,STOR,Storrington Roadside,Urban Traffic,n/m,n/m,-,6,-,n/m,n/m,6
+2014,SWA1,Swansea Roadside,Urban Traffic,n/m,n/m,2,5,1,n/m,n/m,6
+2014,THUR,Thurrock,Urban Background,n/m,n/m,8,n/m,0,0,3,11
+2014,WAR,Warrington,Urban Industrial,n/m,n/m,4,10,0,n/m,n/m,11
+2014,WREX,Wrexham,Urban Traffic,7,7,n/m,n/m,0,0,n/m,9
+2014,YK10,York Bootham,Urban Background,n/m,n/m,4,6,n/m,n/m,n/m,6
+2014,YK11,York Fishergate,Urban Traffic,n/m,n/m,7,8,0,n/m,n/m,9
+2014,AH,Aston Hill,Rural Background,n/m,n/m,n/m,n/m,0,n/m,10,10
+2014,ACTH,Auchencorth Moss,Rural Background,0,0,0,0,n/m,n/m,1,1
+2014,BUSH,Bush Estate,Rural Background,n/m,n/m,n/m,n/m,0,n/m,2,2
+2014,MACK,Charlton Mackrell,Rural Background,n/m,n/m,n/m,n/m,0,n/m,8,8
+2014,ESK,Eskdalemuir,Rural Background,n/m,n/m,n/m,n/m,0,n/m,7,7
+2014,GDF,Great Dun Fell,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,7,7
+2014,HAR,Harwell,Rural Background,2,1,-,6,0,0,10,16
+2014,HM,High Muffles,Rural Background,n/m,n/m,n/m,n/m,0,n/m,12,12
+2014,LB,Ladybower,Rural Background,n/m,n/m,n/m,n/m,0,0,2,2
+2014,LERW,Lerwick,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,-,-
+2014,LN,Lough Navar,Rural Background,n/m,n/m,1,n/m,n/m,n/m,0,1
+2014,LH,Lullington Heath,Rural Background,n/m,n/m,n/m,n/m,-,0,6,6
+2014,MKTH,Market Harborough,Rural Background,n/m,n/m,n/m,n/m,0,n/m,18,18
+2014,PEMB,Narberth,Rural Background,n/m,n/m,1,n/m,0,0,2,3
+2014,ROCH,Rochester Stoke,Rural Background,n/m,n/m,6,17,0,-,13,29
+2014,SIB,Sibton,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,8,8
+2014,OSY,St Osyth,Rural Background,n/m,n/m,n/m,n/m,0,n/m,8,8
+2014,SV,Strathvaich,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,16,16
+2014,WEYB,Weybourne,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,19,19
+2014,WFEN,Wicken Fen,Rural Background,n/m,n/m,n/m,n/m,-,-,3,3
+2014,YW,Yarner Wood,Rural Background,n/m,n/m,n/m,n/m,0,n/m,10,10
+2015,ABD,Aberdeen,Urban Background,n/m,n/m,4,3,1,n/m,3,9
+2015,ARM6,Armagh Roadside,Urban Traffic,n/m,n/m,-,n/m,-,n/m,n/m,-
+2015,BPLE,Barnstaple A39,Urban Traffic,n/m,n/m,4,3,n/m,n/m,n/m,5
+2015,BEL2,Belfast Centre,Urban Background,n/m,n/m,2,4,1,0,1,6
+2015,BEL1,Belfast Stockman's Lane,Urban Traffic,n/m,n/m,4,n/m,5,n/m,n/m,9
+2015,BIR1,Birmingham Tyburn,Urban Background,n/m,n/m,2,4,0,0,7,13
+2015,BIRT,Birmingham Tyburn Roadside,Urban Traffic,n/m,n/m,5,6,1,n/m,4,12
+2015,BRS8,Bristol St Paul's,Urban Background,n/m,n/m,3,8,0,n/m,4,12
+2015,BURW,Bury Whitefield Roadside,Urban Traffic,n/m,n/m,4,-,-,n/m,n/m,4
+2015,CA1,Camden Kerbside,Urban Traffic,n/m,n/m,5,9,9,n/m,n/m,20
+2015,CARD,Cardiff Centre,Urban Background,n/m,n/m,3,6,0,0,3,10
+2015,CARL,Carlisle Roadside,Urban Traffic,n/m,n/m,5,6,0,n/m,n/m,10
+2015,CHAT,Chatham Roadside,Urban Traffic,n/m,n/m,4,6,0,n/m,n/m,8
+2015,CHP,Chepstow A48,Urban Traffic,n/m,n/m,3,6,2,n/m,n/m,9
+2015,CHLG,Chesterfield Loundsley Green,Urban Background,n/m,n/m,1,-,-,n/m,n/m,1
+2015,CHS7,Chesterfield Roadside,Urban Traffic,n/m,n/m,6,7,0,n/m,n/m,9
+2015,DERY,Derry,Urban Background,n/m,n/m,1,7,0,0,1,8
+2015,EA8,Ealing Horn Lane,Urban Traffic,n/m,n/m,-,n/m,n/m,n/m,n/m,-
+2015,EB,Eastbourne,Urban Background,n/m,n/m,1,-,0,n/m,n/m,1
+2015,ED3,Edinburgh St Leonards,Urban Background,n/m,n/m,1,2,-,0,3,5
+2015,GHSR,Glasgow High Street,Urban Traffic,n/m,n/m,2,0,0,n/m,n/m,2
+2015,GLKP,Glasgow Townhead,Urban Background,n/m,n/m,0,0,0,n/m,2,2
+2015,GRAN,Grangemouth,Urban Industrial,n/m,n/m,0,2,0,1,n/m,3
+2015,HULR,Hull Holderness Road,Urban Traffic,n/m,n/m,4,n/m,0,n/m,n/m,4
+2015,INV2,Inverness,Urban Traffic,0,0,n/m,n/m,-,n/m,n/m,0
+2015,LEAM,Leamington Spa,Urban Background,n/m,n/m,4,9,0,n/m,7,18
+2015,LEAR,Leamington Spa Rugby Road,Urban Traffic,n/m,n/m,1,6,0,n/m,n/m,6
+2015,LEED,Leeds Centre,Urban Background,n/m,n/m,11,10,0,0,2,15
+2015,LED6,Leeds Headingley Kerbside,Urban Traffic,n/m,n/m,11,9,0,n/m,n/m,13
+2015,LEIR,Leicester A594 Roadside,Urban Traffic,n/m,n/m,-,n/m,-,n/m,n/m,-
+2015,LECU,Leicester University,Urban Background,n/m,n/m,-,6,0,n/m,10,16
+2015,LVP,Liverpool Speke,Urban Industrial,n/m,n/m,1,4,0,0,3,7
+2015,CLL2,London Bloomsbury,Urban Background,n/m,n/m,-,8,0,0,2,10
+2015,HRL,London Harlington,Urban Industrial,n/m,n/m,3,7,0,n/m,6,14
+2015,MY1,London Marylebone Road,Urban Traffic,11,7,10,10,30,0,0,43
+2015,KC1,London N. Kensington,Urban Background,2,4,5,10,0,0,5,16
+2015,MID,Middlesbrough,Urban Industrial,n/m,n/m,5,5,0,0,3,10
+2015,NEWC,Newcastle Centre,Urban Background,n/m,n/m,4,-,0,n/m,1,5
+2015,NPT3,Newport,Urban Background,n/m,n/m,-,4,0,n/m,n/m,4
+2015,NO12,Norwich Lakenfields,Urban Background,n/m,n/m,5,4,0,n/m,5,12
+2015,NOTT,Nottingham Centre,Urban Background,n/m,n/m,5,5,0,0,3,10
+2015,OX8,Oxford St Ebbes,Urban Background,n/m,n/m,1,3,0,n/m,n/m,4
+2015,PLYM,Plymouth Centre,Urban Background,n/m,n/m,2,-,0,n/m,4,6
+2015,PT4,Port Talbot Margam,Urban Industrial,35,n/m,24,3,0,1,6,44
+2015,PMTH,Portsmouth,Urban Background,n/m,n/m,-,5,0,n/m,4,9
+2015,REA1,Reading New Town,Urban Background,n/m,n/m,2,2,0,n/m,4,7
+2015,ECCL,Salford Eccles,Urban Background,n/m,n/m,3,9,0,n/m,n/m,11
+2015,SASH,Saltash Callington Road,Urban Traffic,n/m,n/m,2,3,n/m,n/m,n/m,4
+2015,SDY,Sandy Roadside,Urban Traffic,n/m,n/m,-,8,0,n/m,n/m,8
+2015,SCN2,Scunthorpe Town,Urban Industrial,n/m,n/m,15,n/m,0,0,n/m,15
+2015,SHDG,Sheffield Devonshire Green,Urban Background,n/m,n/m,-,-,-,n/m,-,-
+2015,SOUT,Southampton Centre,Urban Background,n/m,n/m,3,5,2,0,2,10
+2015,SK5,Southwark A2 Old Kent Road,Urban Traffic,n/m,n/m,-,n/m,-,n/m,n/m,-
+2015,HOPE,Stanford-le-Hope Roadside,Urban Traffic,n/m,n/m,-,4,0,n/m,n/m,4
+2015,EAGL,Stockton-on-Tees Eaglescliffe,Urban Traffic,n/m,n/m,3,11,0,n/m,n/m,12
+2015,STKR,Stoke-on-Trent A50 Roadside,Urban Traffic,n/m,n/m,-,n/m,-,n/m,n/m,-
+2015,STOK,Stoke-on-Trent Centre,Urban Background,n/m,n/m,-,7,0,n/m,4,11
+2015,STOR,Storrington Roadside,Urban Traffic,n/m,n/m,2,5,0,n/m,n/m,6
+2015,SWA1,Swansea Roadside,Urban Traffic,n/m,n/m,2,5,0,n/m,n/m,6
+2015,THUR,Thurrock,Urban Background,n/m,n/m,2,n/m,0,0,4,6
+2015,WAR,Warrington,Urban Industrial,n/m,n/m,1,7,0,n/m,n/m,8
+2015,WREX,Wrexham,Urban Traffic,3,3,n/m,n/m,0,0,n/m,3
+2015,YK10,York Bootham,Urban Background,n/m,n/m,4,7,n/m,n/m,n/m,9
+2015,YK11,York Fishergate,Urban Traffic,n/m,n/m,7,13,0,n/m,n/m,14
+2015,AH,Aston Hill,Rural Background,n/m,n/m,n/m,n/m,0,n/m,9,9
+2015,ACTH,Auchencorth Moss,Rural Background,0,0,-,0,n/m,n/m,7,7
+2015,BUSH,Bush Estate,Rural Background,n/m,n/m,n/m,n/m,0,n/m,7,7
+2015,MACK,Charlton Mackrell,Rural Background,n/m,n/m,n/m,n/m,0,n/m,10,10
+2015,ESK,Eskdalemuir,Rural Background,n/m,n/m,n/m,n/m,0,n/m,8,8
+2015,GDF,Great Dun Fell,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,-,-
+2015,HAR,Harwell,Rural Background,2,3,2,4,0,0,10,15
+2015,HM,High Muffles,Rural Background,n/m,n/m,n/m,n/m,0,n/m,13,13
+2015,LB,Ladybower,Rural Background,n/m,n/m,n/m,n/m,-,-,-,-
+2015,LERW,Lerwick,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,8,8
+2015,LN,Lough Navar,Rural Background,n/m,n/m,0,n/m,n/m,n/m,7,7
+2015,LH,Lullington Heath,Rural Background,n/m,n/m,n/m,n/m,-,0,12,12
+2015,MKTH,Market Harborough,Rural Background,n/m,n/m,n/m,n/m,0,n/m,10,10
+2015,PEMB,Narberth,Rural Background,n/m,n/m,0,n/m,0,0,8,8
+2015,ROCH,Rochester Stoke,Rural Background,n/m,n/m,2,3,0,-,6,9
+2015,SIB,Sibton,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,11,11
+2015,OSY,St Osyth,Rural Background,n/m,n/m,n/m,n/m,0,n/m,6,6
+2015,SV,Strathvaich,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,12,12
+2015,WEYB,Weybourne,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,18,18
+2015,WFEN,Wicken Fen,Rural Background,n/m,n/m,n/m,n/m,0,-,21,21
+2015,YW,Yarner Wood,Rural Background,n/m,n/m,n/m,n/m,0,n/m,21,21
+2016,ABD,Aberdeen,Urban Background,n/m,n/m,0,0,0,n/m,5,5
+2016,ARM6,Armagh Roadside,Urban Traffic,n/m,n/m,-,n/m,0,n/m,n/m,0
+2016,BPLE,Barnstaple A39,Urban Traffic,n/m,n/m,0,2,n/m,n/m,n/m,2
+2016,BEL2,Belfast Centre,Urban Background,n/m,n/m,6,3,1,0,1,8
+2016,BEL1,Belfast Stockman's Lane,Urban Traffic,n/m,n/m,2,n/m,3,n/m,n/m,3
+2016,BIRR,Birmingham A4540 Roadside,Urban Traffic,n/m,n/m,-,-,-,n/m,-,-
+2016,BIR1,Birmingham Tyburn,Urban Background,n/m,n/m,1,8,0,0,11,19
+2016,BIRT,Birmingham Tyburn Roadside,Urban Traffic,n/m,n/m,-,-,-,n/m,-,-
+2016,BRS8,Bristol St Paul's,Urban Background,n/m,n/m,4,9,0,n/m,7,17
+2016,BURW,Bury Whitefield Roadside,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2016,CA1,Camden Kerbside,Urban Traffic,n/m,n/m,7,10,14,n/m,n/m,23
+2016,CARD,Cardiff Centre,Urban Background,n/m,n/m,-,2,0,0,8,10
+2016,CARL,Carlisle Roadside,Urban Traffic,n/m,n/m,-,-,-,n/m,n/m,-
+2016,CHAT,Chatham Roadside,Urban Traffic,n/m,n/m,2,5,0,n/m,n/m,7
+2016,CHP,Chepstow A48,Urban Traffic,n/m,n/m,1,2,0,n/m,n/m,2
+2016,CHLG,Chesterfield Loundsley Green,Urban Background,n/m,n/m,0,3,-,n/m,n/m,3
+2016,CHS7,Chesterfield Roadside,Urban Traffic,n/m,n/m,3,10,0,n/m,n/m,10
+2016,DERY,Derry,Urban Background,n/m,n/m,-,-,-,-,-,-
+2016,DERR,Derry Rosemount,Urban Background,n/m,n/m,-,-,0,0,5,5
+2016,EA8,Ealing Horn Lane,Urban Traffic,n/m,n/m,15,n/m,n/m,n/m,n/m,15
+2016,EB,Eastbourne,Urban Background,n/m,n/m,2,-,0,n/m,n/m,2
+2016,ED3,Edinburgh St Leonards,Urban Background,n/m,n/m,0,0,-,0,3,3
+2016,GHSR,Glasgow High Street,Urban Traffic,n/m,n/m,0,0,2,n/m,n/m,2
+2016,GLKP,Glasgow Townhead,Urban Background,n/m,n/m,0,0,2,n/m,5,7
+2016,GRAN,Grangemouth,Urban Industrial,n/m,n/m,0,0,0,2,n/m,2
+2016,HULR,Hull Holderness Road,Urban Traffic,n/m,n/m,3,n/m,1,n/m,n/m,4
+2016,INV2,Inverness,Urban Traffic,0,0,n/m,n/m,0,n/m,n/m,0
+2016,LEAM,Leamington Spa,Urban Background,n/m,n/m,4,6,0,n/m,10,18
+2016,LEAR,Leamington Spa Rugby Road,Urban Traffic,n/m,n/m,1,4,0,n/m,n/m,4
+2016,LEED,Leeds Centre,Urban Background,n/m,n/m,4,5,0,0,3,10
+2016,LED6,Leeds Headingley Kerbside,Urban Traffic,n/m,n/m,4,6,0,n/m,n/m,7
+2016,LEIR,Leicester A594 Roadside,Urban Traffic,n/m,n/m,8,n/m,0,n/m,n/m,8
+2016,LECU,Leicester University,Urban Background,n/m,n/m,-,5,0,n/m,10,15
+2016,LVP,Liverpool Speke,Urban Industrial,n/m,n/m,0,3,0,0,6,8
+2016,CLL2,London Bloomsbury,Urban Background,n/m,n/m,8,5,0,0,1,10
+2016,HRL,London Harlington,Urban Industrial,n/m,n/m,5,6,0,n/m,6,12
+2016,MY1,London Marylebone Road,Urban Traffic,13,10,13,13,31,0,0,43
+2016,KC1,London N. Kensington,Urban Background,-,3,9,12,0,0,6,19
+2016,MID,Middlesbrough,Urban Industrial,n/m,n/m,2,4,0,0,5,11
+2016,NEWC,Newcastle Centre,Urban Background,n/m,n/m,0,2,0,n/m,3,5
+2016,NPT3,Newport,Urban Background,n/m,n/m,0,3,0,n/m,n/m,3
+2016,NO12,Norwich Lakenfields,Urban Background,n/m,n/m,1,4,0,n/m,8,12
+2016,NOTT,Nottingham Centre,Urban Background,n/m,n/m,4,8,0,0,2,11
+2016,NWBV,Nottingham Western Boulevard,Urban Traffic,n/m,n/m,4,n/m,0,n/m,n/m,4
+2016,OX8,Oxford St Ebbes,Urban Background,n/m,n/m,-,-,-,n/m,n/m,-
+2016,PLYM,Plymouth Centre,Urban Background,n/m,n/m,1,5,0,n/m,2,8
+2016,PT4,Port Talbot Margam,Urban Industrial,10,n/m,7,0,0,0,9,20
+2016,PMTH,Portsmouth,Urban Background,n/m,n/m,-,4,0,n/m,11,15
+2016,REA5,Reading London Rd.,Urban Traffic,n/m,n/m,-,n/m,0,n/m,n/m,0
+2016,REA1,Reading New Town,Urban Background,n/m,n/m,3,4,0,n/m,7,11
+2016,ECCL,Salford Eccles,Urban Background,n/m,n/m,2,6,0,n/m,n/m,6
+2016,SASH,Saltash Callington Road,Urban Traffic,n/m,n/m,0,1,n/m,n/m,n/m,1
+2016,SDY,Sandy Roadside,Urban Traffic,n/m,n/m,1,4,1,n/m,n/m,5
+2016,SCN2,Scunthorpe Town,Urban Industrial,n/m,n/m,4,n/m,0,0,n/m,4
+2016,SHDG,Sheffield Devonshire Green,Urban Background,n/m,n/m,3,4,0,n/m,5,9
+2016,SA33,Southampton A33,Urban Traffic,n/m,n/m,-,n/m,0,n/m,n/m,0
+2016,SOUT,Southampton Centre,Urban Background,n/m,n/m,-,-,-,-,-,-
+2016,SK5,Southwark A2 Old Kent Road,Urban Traffic,n/m,n/m,18,n/m,1,n/m,n/m,19
+2016,HOPE,Stanford-le-Hope Roadside,Urban Traffic,n/m,n/m,1,9,0,n/m,n/m,9
+2016,EAGL,Stockton-on-Tees Eaglescliffe,Urban Traffic,n/m,n/m,-,3,0,n/m,n/m,3
+2016,STKR,Stoke-on-Trent A50 Roadside,Urban Traffic,n/m,n/m,5,n/m,6,n/m,n/m,11
+2016,STOR,Storrington Roadside,Urban Traffic,n/m,n/m,3,10,0,n/m,n/m,10
+2016,SWA1,Swansea Roadside,Urban Traffic,n/m,n/m,0,3,0,n/m,n/m,3
+2016,THUR,Thurrock,Urban Background,n/m,n/m,4,n/m,0,0,5,9
+2016,WAR,Warrington,Urban Industrial,n/m,n/m,0,5,0,n/m,n/m,5
+2016,WREX,Wrexham,Urban Traffic,0,0,n/m,n/m,0,0,n/m,0
+2016,YK10,York Bootham,Urban Background,n/m,n/m,2,2,-,n/m,n/m,3
+2016,YK11,York Fishergate,Urban Traffic,n/m,n/m,2,3,0,n/m,n/m,4
+2016,AH,Aston Hill,Rural Background,n/m,n/m,n/m,n/m,0,n/m,25,25
+2016,ACTH,Auchencorth Moss,Rural Background,-,-,0,0,n/m,n/m,3,3
+2016,BUSH,Bush Estate,Rural Background,n/m,n/m,n/m,n/m,0,n/m,7,7
+2016,MACK,Charlton Mackrell,Rural Background,n/m,n/m,n/m,n/m,0,n/m,10,10
+2016,CHBO,Chilbolton Observatory,Rural Background,-,-,0,4,0,-,12,16
+2016,ESK,Eskdalemuir,Rural Background,n/m,n/m,n/m,n/m,0,n/m,8,8
+2016,GDF,Great Dun Fell,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,13,13
+2016,HM,High Muffles,Rural Background,n/m,n/m,n/m,n/m,0,n/m,16,16
+2016,LB,Ladybower,Rural Background,n/m,n/m,n/m,n/m,0,0,9,9
+2016,LERW,Lerwick,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,5,5
+2016,LN,Lough Navar,Rural Background,n/m,n/m,0,n/m,n/m,n/m,4,4
+2016,LH,Lullington Heath,Rural Background,n/m,n/m,n/m,n/m,0,-,16,16
+2016,MKTH,Market Harborough,Rural Background,n/m,n/m,n/m,n/m,0,n/m,14,14
+2016,PEMB,Narberth,Rural Background,n/m,n/m,0,n/m,-,0,11,11
+2016,ROCH,Rochester Stoke,Rural Background,n/m,n/m,4,2,0,0,6,12
+2016,SIB,Sibton,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,12,12
+2016,OSY,St Osyth,Rural Background,n/m,n/m,n/m,n/m,0,n/m,9,9
+2016,SV,Strathvaich,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,-,-
+2016,WEYB,Weybourne,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,16,16
+2016,WFEN,Wicken Fen,Rural Background,n/m,n/m,n/m,n/m,0,-,16,16
+2016,YW,Yarner Wood,Rural Background,n/m,n/m,n/m,n/m,0,n/m,9,9
+2017,ABD,Aberdeen,Urban Background,n/m,n/m,0,0,2,n/m,0,2
+2017,ARM6,Armagh Roadside,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2017,BPLE,Barnstaple A39,Urban Traffic,n/m,n/m,-,-,n/m,n/m,n/m,-
+2017,BEL2,Belfast Centre,Urban Background,n/m,n/m,1,2,1,0,1,3
+2017,BEL1,Belfast Stockman's Lane,Urban Traffic,n/m,n/m,2,n/m,1,n/m,n/m,3
+2017,BIRR,Birmingham A4540 Roadside,Urban Traffic,n/m,n/m,3,4,0,n/m,2,6
+2017,BIR1,Birmingham Tyburn,Urban Background,n/m,n/m,-,-,n/m,n/m,n/m,-
+2017,BRS8,Bristol St Paul's,Urban Background,n/m,n/m,2,4,0,n/m,4,10
+2017,BR11,Bristol Temple Way,Urban Traffic,n/m,n/m,-,n/m,1,n/m,n/m,1
+2017,BURW,Bury Whitefield Roadside,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2017,CA1,Camden Kerbside,Urban Traffic,n/m,n/m,8,16,1,n/m,n/m,17
+2017,CARD,Cardiff Centre,Urban Background,n/m,n/m,1,5,0,0,4,9
+2017,CARL,Carlisle Roadside,Urban Traffic,n/m,n/m,1,6,0,n/m,n/m,6
+2017,CHAT,Chatham Roadside,Urban Traffic,n/m,n/m,6,11,0,n/m,n/m,13
+2017,CHP,Chepstow A48,Urban Traffic,n/m,n/m,2,5,0,n/m,n/m,5
+2017,CHLG,Chesterfield Loundsley Green,Urban Background,n/m,n/m,2,3,-,n/m,n/m,4
+2017,CHS7,Chesterfield Roadside,Urban Traffic,n/m,n/m,3,4,0,n/m,n/m,5
+2017,COBR,Coventry Binley Road,Urban Traffic,n/m,n/m,-,n/m,-,n/m,n/m,-
+2017,DERR,Derry Rosemount,Urban Background,n/m,n/m,1,1,0,0,4,5
+2017,EA8,Ealing Horn Lane,Urban Traffic,n/m,n/m,12,n/m,n/m,n/m,n/m,12
+2017,ED3,Edinburgh St Leonards,Urban Background,n/m,n/m,0,0,0,0,1,1
+2017,GHSR,Glasgow High Street,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2017,GLKP,Glasgow Townhead,Urban Background,n/m,n/m,0,1,0,n/m,0,1
+2017,GRAN,Grangemouth,Urban Industrial,n/m,n/m,1,1,0,0,n/m,2
+2017,GKA8,Greenock A8 Roadside,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2017,HULR,Hull Holderness Road,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2017,INV2,Inverness,Urban Traffic,0,0,-,n/m,0,n/m,n/m,0
+2017,LEAM,Leamington Spa,Urban Background,n/m,n/m,2,6,0,n/m,7,13
+2017,LEAR,Leamington Spa Rugby Road,Urban Traffic,n/m,n/m,3,3,0,n/m,n/m,4
+2017,LEED,Leeds Centre,Urban Background,n/m,n/m,4,11,0,0,0,12
+2017,LED6,Leeds Headingley Kerbside,Urban Traffic,n/m,n/m,5,8,0,n/m,n/m,9
+2017,LEIR,Leicester A594 Roadside,Urban Traffic,n/m,n/m,4,n/m,0,n/m,n/m,4
+2017,LECU,Leicester University,Urban Background,n/m,n/m,-,4,0,n/m,7,11
+2017,LVP,Liverpool Speke,Urban Industrial,n/m,n/m,5,4,0,0,3,9
+2017,CLL2,London Bloomsbury,Urban Background,n/m,n/m,3,9,0,0,4,14
+2017,HRL,London Harlington,Urban Industrial,n/m,n/m,2,4,0,n/m,8,12
+2017,MY1,London Marylebone Road,Urban Traffic,8,7,4,11,18,0,0,28
+2017,KC1,London N. Kensington,Urban Background,n/m,n/m,1,10,1,0,8,18
+2017,MID,Middlesbrough,Urban Industrial,n/m,n/m,2,4,0,0,1,5
+2017,NEWC,Newcastle Centre,Urban Background,n/m,n/m,2,4,0,n/m,0,5
+2017,NPT3,Newport,Urban Background,n/m,n/m,-,-,-,n/m,n/m,-
+2017,NO12,Norwich Lakenfields,Urban Background,n/m,n/m,5,10,0,n/m,6,17
+2017,NOTT,Nottingham Centre,Urban Background,n/m,n/m,4,4,0,0,1,6
+2017,NWBV,Nottingham Western Boulevard,Urban Traffic,n/m,n/m,4,n/m,0,n/m,n/m,4
+2017,OX8,Oxford St Ebbes,Urban Background,n/m,n/m,1,4,0,n/m,n/m,4
+2017,PLYM,Plymouth Centre,Urban Background,n/m,n/m,0,0,0,n/m,5,5
+2017,PT4,Port Talbot Margam,Urban Industrial,21,n/m,16,0,0,0,5,30
+2017,PMTH,Portsmouth,Urban Background,n/m,n/m,0,-,0,n/m,5,5
+2017,REA5,Reading London Road,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2017,REA1,Reading New Town,Urban Background,n/m,n/m,1,7,0,n/m,6,14
+2017,ECCL,Salford Eccles,Urban Background,n/m,n/m,5,8,0,n/m,n/m,8
+2017,SASH,Saltash Callington Road,Urban Traffic,n/m,n/m,-,0,n/m,n/m,n/m,0
+2017,SDY,Sandy Roadside,Urban Traffic,n/m,n/m,-,-,4,n/m,n/m,4
+2017,SCN2,Scunthorpe Town,Urban Industrial,n/m,n/m,5,n/m,0,0,n/m,5
+2017,SHDG,Sheffield Devonshire Green,Urban Background,n/m,n/m,4,5,0,n/m,2,7
+2017,SA33,Southampton A33,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2017,SOUT,Southampton Centre,Urban Background,n/m,n/m,1,4,0,0,4,8
+2017,SK5,Southwark A2 Old Kent Road,Urban Traffic,n/m,n/m,16,n/m,0,n/m,n/m,16
+2017,SHLW,St Helens Linkway,Urban Traffic,n/m,n/m,4,n/m,0,n/m,n/m,4
+2017,HOPE,Stanford-le-Hope Roadside,Urban Traffic,n/m,n/m,5,10,0,n/m,n/m,10
+2017,EAGL,Stockton-on-Tees Eaglescliffe,Urban Traffic,n/m,n/m,0,4,0,n/m,n/m,4
+2017,STKR,Stoke-on-Trent A50 Roadside,Urban Traffic,n/m,n/m,3,n/m,2,n/m,n/m,5
+2017,STOR,Storrington Roadside,Urban Traffic,n/m,n/m,-,-,0,n/m,n/m,0
+2017,SWA1,Swansea Roadside,Urban Traffic,n/m,n/m,1,5,0,n/m,n/m,5
+2017,THUR,Thurrock,Urban Background,n/m,n/m,5,n/m,0,0,2,7
+2017,WAR,Warrington,Urban Industrial,n/m,n/m,3,7,0,n/m,n/m,7
+2017,WREX,Wrexham,Urban Traffic,3,3,-,n/m,0,0,n/m,3
+2017,YK10,York Bootham,Urban Background,n/m,n/m,4,7,0,n/m,n/m,8
+2017,YK11,York Fishergate,Urban Traffic,n/m,n/m,6,9,0,n/m,n/m,10
+2017,AH,Aston Hill,Rural Background,n/m,n/m,n/m,n/m,0,n/m,10,10
+2017,ACTH,Auchencorth Moss,Rural Background,n/m,n/m,0,0,n/m,n/m,4,4
+2017,BUSH,Bush Estate,Rural Background,n/m,n/m,n/m,n/m,0,n/m,2,2
+2017,MACK,Charlton Mackrell,Rural Background,n/m,n/m,n/m,n/m,0,n/m,15,15
+2017,CHBO,Chilbolton Observatory,Rural Background,n/m,n/m,0,2,0,0,15,17
+2017,ESK,Eskdalemuir,Rural Background,n/m,n/m,n/m,n/m,0,n/m,3,3
+2017,HM,High Muffles,Rural Background,n/m,n/m,n/m,n/m,0,n/m,7,7
+2017,LB,Ladybower,Rural Background,n/m,n/m,n/m,n/m,0,0,7,7
+2017,LERW,Lerwick,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,6,6
+2017,LN,Lough Navar,Rural Background,n/m,n/m,0,n/m,n/m,n/m,4,4
+2017,LH,Lullington Heath,Rural Background,n/m,n/m,n/m,n/m,0,0,8,8
+2017,MKTH,Market Harborough,Rural Background,n/m,n/m,n/m,n/m,0,n/m,14,14
+2017,PEMB,Narberth,Rural Background,n/m,n/m,0,n/m,0,0,8,8
+2017,ROCH,Rochester Stoke,Rural Background,n/m,n/m,3,9,0,0,-,10
+2017,SIB,Sibton,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,8,8
+2017,OSY,St Osyth,Rural Background,n/m,n/m,n/m,n/m,0,n/m,10,10
+2017,SV,Strathvaich,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,6,6
+2017,WEYB,Weybourne,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,14,14
+2017,WFEN,Wicken Fen,Rural Background,n/m,n/m,n/m,n/m,0,0,9,9
+2017,YW,Yarner Wood,Rural Background,n/m,n/m,n/m,n/m,0,n/m,13,13
+2018,ABD,Aberdeen,Urban Background,n/m,n/m,0,0,1,n/m,2,3
+2018,ARM6,Armagh Roadside,Urban Traffic,n/m,n/m,3,n/m,0,n/m,n/m,3
+2018,BPLE,Barnstaple A39,Urban Traffic,n/m,n/m,-,0,n/m,n/m,n/m,0
+2018,BEL2,Belfast Centre,Urban Background,n/m,n/m,0,1,0,0,3,4
+2018,BEL1,Belfast Stockman's Lane,Urban Traffic,n/m,n/m,0,n/m,2,n/m,n/m,2
+2018,BIRR,Birmingham A4540 Roadside,Urban Traffic,n/m,n/m,2,3,0,n/m,12,16
+2018,BMLD,Birmingham Ladywood,Urban Background,n/m,n/m,-,-,n/m,n/m,n/m,-
+2018,BRS8,Bristol St Paul's,Urban Background,n/m,n/m,0,2,0,n/m,-,2
+2018,BR11,Bristol Temple Way,Urban Traffic,n/m,n/m,3,n/m,0,n/m,n/m,3
+2018,BURW,Bury Whitefield Roadside,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2018,CA1,Camden Kerbside,Urban Traffic,n/m,n/m,3,5,2,n/m,n/m,8
+2018,CARD,Cardiff Centre,Urban Background,n/m,n/m,3,1,-,-,20,24
+2018,CNPR,Cardiff Newport Road,Urban Traffic,n/m,n/m,-,n/m,-,n/m,n/m,-
+2018,CARL,Carlisle Roadside,Urban Traffic,n/m,n/m,0,1,0,n/m,n/m,1
+2018,CHAT,Chatham Roadside,Urban Traffic,n/m,n/m,8,15,0,n/m,n/m,17
+2018,CHP,Chepstow A48,Urban Traffic,n/m,n/m,0,1,0,n/m,n/m,1
+2018,CHLG,Chesterfield Loundsley Green,Urban Background,n/m,n/m,2,4,0,n/m,n/m,5
+2018,CHS7,Chesterfield Roadside,Urban Traffic,n/m,n/m,3,4,0,n/m,n/m,5
+2018,COBR,Coventry Binley Road,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2018,DERR,Derry Rosemount,Urban Background,n/m,n/m,0,2,0,0,13,15
+2018,EA8,Ealing Horn Lane,Urban Traffic,n/m,n/m,5,n/m,n/m,n/m,n/m,5
+2018,ED3,Edinburgh St Leonards,Urban Background,n/m,n/m,0,0,0,0,11,11
+2018,GHSR,Glasgow High Street,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2018,GLKP,Glasgow Townhead,Urban Background,n/m,n/m,0,0,0,n/m,6,6
+2018,GRAN,Grangemouth,Urban Industrial,n/m,n/m,0,0,0,0,n/m,0
+2018,GKA8,Greenock A8 Roadside,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2018,HULR,Hull Holderness Road,Urban Traffic,n/m,n/m,4,n/m,0,n/m,n/m,4
+2018,INV2,Inverness,Urban Traffic,-,-,-,-,0,n/m,n/m,0
+2018,LEAM,Leamington Spa,Urban Background,n/m,n/m,1,2,0,n/m,17,19
+2018,LEAR,Leamington Spa Rugby Road,Urban Traffic,n/m,n/m,-,-,0,n/m,n/m,0
+2018,LEED,Leeds Centre,Urban Background,n/m,n/m,2,5,0,0,11,16
+2018,LED6,Leeds Headingley Kerbside,Urban Traffic,n/m,n/m,3,5,0,n/m,n/m,5
+2018,LEIR,Leicester A594 Roadside,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2018,LVP,Liverpool Speke,Urban Industrial,n/m,n/m,1,2,0,0,10,12
+2018,CLL2,London Bloomsbury,Urban Background,n/m,n/m,1,4,0,0,12,16
+2018,HRL,London Harlington,Urban Industrial,n/m,n/m,1,3,0,n/m,18,21
+2018,MY1,London Marylebone Road,Urban Traffic,5,2,7,10,20,0,1,32
+2018,KC1,London N. Kensington,Urban Background,n/m,n/m,1,0,0,0,28,29
+2018,MID,Middlesbrough,Urban Industrial,n/m,n/m,2,1,0,0,8,11
+2018,NEWC,Newcastle Centre,Urban Background,n/m,n/m,3,2,0,n/m,11,15
+2018,NCA3,Newcastle Cradlewell Roadside,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2018,NPT3,Newport,Urban Background,n/m,n/m,-,-,-,n/m,n/m,-
+2018,NO12,Norwich Lakenfields,Urban Background,n/m,n/m,1,1,0,n/m,12,13
+2018,NOTT,Nottingham Centre,Urban Background,n/m,n/m,2,3,0,0,12,15
+2018,NWBV,Nottingham Western Boulevard,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2018,OX8,Oxford St Ebbes,Urban Background,n/m,n/m,1,2,0,n/m,n/m,2
+2018,PLYM,Plymouth Centre,Urban Background,n/m,n/m,0,0,0,n/m,14,14
+2018,PT4,Port Talbot Margam,Urban Industrial,20,n/m,10,0,0,0,18,35
+2018,PMTH,Portsmouth,Urban Background,n/m,n/m,-,-,0,n/m,10,10
+2018,POAR,Portsmouth Anglesea Road,Urban Traffic,n/m,n/m,1,n/m,1,n/m,n/m,2
+2018,REA5,Reading London Road,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2018,REA1,Reading New Town,Urban Background,n/m,n/m,1,0,0,n/m,38,39
+2018,ECCL,Salford Eccles,Urban Background,n/m,n/m,2,2,0,n/m,n/m,2
+2018,SASH,Saltash Callington Road,Urban Traffic,n/m,n/m,1,0,n/m,n/m,n/m,1
+2018,SDY,Sandy Roadside,Urban Traffic,n/m,n/m,-,-,2,n/m,n/m,2
+2018,SCN2,Scunthorpe Town,Urban Industrial,n/m,n/m,8,n/m,0,0,n/m,8
+2018,SHDG,Sheffield Devonshire Green,Urban Background,n/m,n/m,2,4,0,n/m,18,23
+2018,SA33,Southampton A33,Urban Traffic,n/m,n/m,-,n/m,0,n/m,n/m,0
+2018,SOUT,Southampton Centre,Urban Background,n/m,n/m,-,0,0,0,21,21
+2018,SK5,Southwark A2 Old Kent Road,Urban Traffic,n/m,n/m,8,n/m,0,n/m,n/m,8
+2018,SHLW,St Helens Linkway,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2018,HOPE,Stanford-le-Hope Roadside,Urban Traffic,n/m,n/m,3,7,0,n/m,n/m,8
+2018,EAGL,Stockton-on-Tees Eaglescliffe,Urban Traffic,n/m,n/m,2,0,0,n/m,n/m,2
+2018,STKR,Stoke-on-Trent A50 Roadside,Urban Traffic,n/m,n/m,1,n/m,1,n/m,n/m,2
+2018,SWA1,Swansea Roadside,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2018,THUR,Thurrock,Urban Background,n/m,n/m,3,n/m,0,0,17,19
+2018,WAR,Warrington,Urban Industrial,n/m,n/m,-,2,0,n/m,n/m,2
+2018,WREX,Wrexham,Urban Traffic,-,-,-,-,0,-,n/m,0
+2018,YK10,York Bootham,Urban Background,n/m,n/m,3,5,0,n/m,n/m,5
+2018,YK11,York Fishergate,Urban Traffic,n/m,n/m,1,3,0,n/m,n/m,3
+2018,AH,Aston Hill,Rural Background,n/m,n/m,n/m,n/m,0,n/m,34,34
+2018,ACTH,Auchencorth Moss,Rural Background,n/m,n/m,0,0,n/m,n/m,10,10
+2018,BUSH,Bush Estate,Rural Background,n/m,n/m,n/m,n/m,0,n/m,13,13
+2018,MACK,Charlton Mackrell,Rural Background,n/m,n/m,n/m,n/m,0,n/m,-,0
+2018,CHBO,Chilbolton Observatory,Rural Background,n/m,n/m,0,1,0,0,42,43
+2018,ESK,Eskdalemuir,Rural Background,n/m,n/m,n/m,n/m,0,n/m,15,15
+2018,HM,High Muffles,Rural Background,n/m,n/m,n/m,n/m,0,n/m,35,35
+2018,LB,Ladybower,Rural Background,n/m,n/m,n/m,n/m,0,0,-,0
+2018,LERW,Lerwick,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,29,29
+2018,LN,Lough Navar,Rural Background,n/m,n/m,0,-,n/m,n/m,16,16
+2018,LH,Lullington Heath,Rural Background,n/m,n/m,n/m,n/m,-,0,31,31
+2018,MKTH,Market Harborough,Rural Background,n/m,n/m,n/m,n/m,0,n/m,29,29
+2018,PEMB,Narberth,Rural Background,n/m,n/m,0,-,0,0,28,28
+2018,ROCH,Rochester Stoke,Rural Background,n/m,n/m,5,6,0,0,35,41
+2018,SIB,Sibton,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,37,37
+2018,OSY,St Osyth,Rural Background,n/m,n/m,n/m,n/m,0,n/m,24,24
+2018,SV,Strathvaich,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,11,11
+2018,WEYB,Weybourne,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,39,39
+2018,WFEN,Wicken Fen,Rural Background,n/m,n/m,n/m,n/m,0,0,40,40
+2018,YW,Yarner Wood,Rural Background,n/m,n/m,n/m,n/m,0,n/m,31,31
+2019,ABD,Aberdeen,Urban Background,n/m,n/m,1,0,0,n/m,6,6
+2019,ARM6,Armagh Roadside,Urban Traffic,n/m,n/m,5,n/m,0,n/m,n/m,5
+2019,BPLE,Barnstaple A39,Urban Traffic,n/m,n/m,2,3,n/m,n/m,n/m,3
+2019,BEL2,Belfast Centre,Urban Background,n/m,n/m,1,7,-,-,3,10
+2019,BEL1,Belfast Stockman's Lane,Urban Traffic,n/m,n/m,3,n/m,0,n/m,n/m,3
+2019,BIRR,Birmingham A4540 Roadside,Urban Traffic,n/m,n/m,8,7,0,n/m,5,14
+2019,AGRN,Birmingham Acocks Green,Urban Background,n/m,n/m,-,4,0,n/m,14,18
+2019,BMLD,Birmingham Ladywood,Urban Background,n/m,n/m,5,8,n/m,n/m,-,10
+2019,BLC2,Blackpool Marton,Urban Background,n/m,n/m,-,5,0,n/m,16,19
+2019,BRS8,Bristol St Paul's,Urban Background,n/m,n/m,0,7,0,n/m,6,13
+2019,BR11,Bristol Temple Way,Urban Traffic,n/m,n/m,9,n/m,0,n/m,n/m,9
+2019,BURW,Bury Whitefield Roadside,Urban Traffic,n/m,n/m,8,n/m,2,n/m,n/m,10
+2019,CA1,Camden Kerbside,Urban Traffic,n/m,n/m,8,9,1,n/m,n/m,11
+2019,CARD,Cardiff Centre,Urban Background,n/m,n/m,-,-,-,-,-,-
+2019,CNPR,Cardiff Newport Road,Urban Traffic,n/m,n/m,10,n/m,0,n/m,n/m,10
+2019,CARL,Carlisle Roadside,Urban Traffic,n/m,n/m,3,3,0,n/m,n/m,3
+2019,CHAT,Chatham Roadside,Urban Traffic,n/m,n/m,11,15,0,n/m,n/m,15
+2019,CHP,Chepstow A48,Urban Traffic,n/m,n/m,5,6,1,n/m,n/m,9
+2019,CHLG,Chesterfield Loundsley Green,Urban Background,n/m,n/m,2,4,0,n/m,n/m,4
+2019,CHS7,Chesterfield Roadside,Urban Traffic,n/m,n/m,2,5,0,n/m,n/m,5
+2019,COAL,Coventry Allesley,Urban Background,n/m,n/m,-,8,0,n/m,9,17
+2019,COBR,Coventry Binley Road,Urban Traffic,n/m,n/m,11,n/m,0,n/m,n/m,11
+2019,DERR,Derry Rosemount,Urban Background,n/m,n/m,0,4,0,0,3,7
+2019,EA8,Ealing Horn Lane,Urban Traffic,n/m,n/m,14,n/m,n/m,n/m,n/m,14
+2019,EB,Eastbourne,Urban Background,n/m,n/m,3,9,0,n/m,n/m,9
+2019,ED3,Edinburgh St Leonards,Urban Background,n/m,n/m,1,1,0,0,5,7
+2019,GHSR,Glasgow High Street,Urban Traffic,n/m,n/m,1,1,0,n/m,n/m,2
+2019,GLKP,Glasgow Townhead,Urban Background,n/m,n/m,2,0,0,n/m,7,9
+2019,GRAN,Grangemouth,Urban Industrial,n/m,n/m,0,1,0,2,n/m,3
+2019,GKA8,Greenock A8 Roadside,Urban Traffic,n/m,n/m,4,2,0,n/m,n/m,5
+2019,HUL2,Hull Freetown,Urban Background,n/m,n/m,-,9,0,0,13,20
+2019,HULR,Hull Holderness Road,Urban Traffic,n/m,n/m,8,n/m,0,n/m,n/m,8
+2019,INV2,Inverness,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2019,LEAM,Leamington Spa,Urban Background,n/m,n/m,4,5,0,n/m,6,12
+2019,LEAR,Leamington Spa Rugby Road,Urban Traffic,n/m,n/m,3,4,0,n/m,n/m,6
+2019,LEED,Leeds Centre,Urban Background,n/m,n/m,5,8,0,0,8,15
+2019,LED6,Leeds Headingley Kerbside,Urban Traffic,n/m,n/m,1,10,0,n/m,n/m,10
+2019,LEIR,Leicester A594 Roadside,Urban Traffic,n/m,n/m,14,n/m,0,n/m,n/m,14
+2019,LVP,Liverpool Speke,Urban Industrial,n/m,n/m,5,7,0,0,11,19
+2019,CLL2,London Bloomsbury,Urban Background,n/m,n/m,9,10,0,0,7,18
+2019,HRL,London Harlington,Urban Industrial,n/m,n/m,5,6,0,n/m,13,20
+2019,HP1,London Honor Oak Park,Urban Background,n/m,n/m,5,8,n/m,n/m,n/m,9
+2019,MY1,London Marylebone Road,Urban Traffic,11,7,10,13,0,0,0,15
+2019,KC1,London N. Kensington,Urban Background,n/m,n/m,4,8,0,0,18,25
+2019,MAN3,Manchester Piccadilly,Urban Background,n/m,n/m,-,5,0,0,5,10
+2019,MID,Middlesbrough,Urban Industrial,n/m,n/m,6,4,0,0,11,19
+2019,NEWC,Newcastle Centre,Urban Background,n/m,n/m,9,2,0,n/m,15,24
+2019,NCA3,Newcastle Cradlewell Roadside,Urban Traffic,n/m,n/m,3,n/m,0,n/m,n/m,3
+2019,NPT3,Newport,Urban Background,n/m,n/m,4,6,0,n/m,n/m,6
+2019,NO12,Norwich Lakenfields,Urban Background,n/m,n/m,2,9,0,n/m,17,24
+2019,NOTT,Nottingham Centre,Urban Background,n/m,n/m,8,9,0,0,11,21
+2019,NWBV,Nottingham Western Boulevard,Urban Traffic,n/m,n/m,11,n/m,0,n/m,n/m,11
+2019,OX8,Oxford St Ebbes,Urban Background,n/m,n/m,5,7,0,n/m,n/m,7
+2019,PLYM,Plymouth Centre,Urban Background,n/m,n/m,0,5,0,n/m,7,11
+2019,PT4,Port Talbot Margam,Urban Industrial,26,n/m,12,3,0,0,10,37
+2019,PMTH,Portsmouth,Urban Background,n/m,n/m,1,5,0,n/m,9,15
+2019,POAR,Portsmouth Anglesea Road,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2019,PRES,Preston,Urban Background,n/m,n/m,-,4,0,n/m,12,15
+2019,REA5,Reading London Road,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2019,REA1,Reading New Town,Urban Background,n/m,n/m,-,-,-,n/m,-,-
+2019,ECCL,Salford Eccles,Urban Background,n/m,n/m,7,4,0,n/m,n/m,8
+2019,SASH,Saltash Callington Road,Urban Traffic,n/m,n/m,0,3,n/m,n/m,n/m,3
+2019,SDY,Sandy Roadside,Urban Traffic,n/m,n/m,4,4,0,n/m,n/m,7
+2019,SCN2,Scunthorpe Town,Urban Industrial,n/m,n/m,16,n/m,0,0,n/m,16
+2019,SHDG,Sheffield Devonshire Green,Urban Background,n/m,n/m,6,12,0,n/m,-,12
+2019,SA33,Southampton A33,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2019,SOUT,Southampton Centre,Urban Background,n/m,n/m,2,7,0,0,6,13
+2019,SEND,Southend-on-Sea,Urban Background,n/m,n/m,-,13,0,n/m,13,21
+2019,SK5,Southwark A2 Old Kent Road,Urban Traffic,n/m,n/m,14,n/m,1,n/m,n/m,15
+2019,SHLW,St Helens Linkway,Urban Traffic,n/m,n/m,7,n/m,1,n/m,n/m,8
+2019,HOPE,Stanford-le-Hope Roadside,Urban Traffic,n/m,n/m,7,11,0,n/m,n/m,13
+2019,EAGL,Stockton-on-Tees Eaglescliffe,Urban Traffic,n/m,n/m,2,1,0,n/m,n/m,3
+2019,STKR,Stoke-on-Trent A50 Roadside,Urban Traffic,n/m,n/m,11,n/m,1,n/m,n/m,12
+2019,STOK,Stoke-on-Trent Centre,Urban Background,n/m,n/m,-,8,0,n/m,10,18
+2019,SUN2,Sunderland Silksworth,Urban Background,n/m,n/m,-,2,0,n/m,13,14
+2019,SWA1,Swansea Roadside,Urban Traffic,n/m,n/m,2,5,0,n/m,n/m,5
+2019,THUR,Thurrock,Urban Background,n/m,n/m,12,n/m,0,0,-,12
+2019,WAR,Warrington,Urban Industrial,n/m,n/m,5,-,0,n/m,n/m,5
+2019,WIG5,Wigan Centre,Urban Background,n/m,n/m,-,8,0,n/m,12,20
+2019,TRAN,Wirral Tranmere,Urban Background,n/m,n/m,-,7,0,n/m,12,19
+2019,WREX,Wrexham,Urban Traffic,n/m,n/m,3,3,0,-,n/m,4
+2019,YK10,York Bootham,Urban Background,n/m,n/m,0,5,0,n/m,n/m,5
+2019,YK11,York Fishergate,Urban Traffic,n/m,n/m,8,-,0,n/m,n/m,8
+2019,AH,Aston Hill,Rural Background,n/m,n/m,n/m,n/m,0,n/m,11,11
+2019,ACTH,Auchencorth Moss,Rural Background,n/m,n/m,0,0,n/m,n/m,12,12
+2019,BUSH,Bush Estate,Rural Background,n/m,n/m,n/m,n/m,0,n/m,-,0
+2019,MACK,Charlton Mackrell,Rural Background,n/m,n/m,n/m,n/m,0,n/m,-,0
+2019,CHBO,Chilbolton Observatory,Rural Background,n/m,n/m,1,5,0,0,27,31
+2019,ESK,Eskdalemuir,Rural Background,n/m,n/m,n/m,n/m,0,n/m,-,0
+2019,HM,High Muffles,Rural Background,n/m,n/m,n/m,n/m,0,n/m,38,38
+2019,LB,Ladybower,Rural Background,n/m,n/m,n/m,n/m,0,-,17,17
+2019,LERW,Lerwick,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,31,31
+2019,LN,Lough Navar,Rural Background,n/m,n/m,0,1,n/m,n/m,8,9
+2019,LH,Lullington Heath,Rural Background,n/m,n/m,n/m,n/m,0,0,19,19
+2019,MKTH,Market Harborough,Rural Background,n/m,n/m,n/m,n/m,-,n/m,-,-
+2019,PEMB,Narberth,Rural Background,n/m,n/m,0,1,0,0,9,10
+2019,ROCH,Rochester Stoke,Rural Background,n/m,n/m,9,15,0,0,26,35
+2019,SIB,Sibton,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,27,27
+2019,OSY,St Osyth,Rural Background,n/m,n/m,n/m,n/m,0,n/m,18,18
+2019,SV,Strathvaich,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,22,22
+2019,WEYB,Weybourne,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,16,16
+2019,WFEN,Wicken Fen,Rural Background,n/m,n/m,n/m,n/m,0,0,22,22
+2019,YW,Yarner Wood,Rural Background,n/m,n/m,n/m,n/m,0,n/m,30,30
+2020,ABD,Aberdeen,Urban Background,n/m,n/m,0,0,0,n/m,-,0
+2020,ARM6,Armagh Roadside,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2020,BPLE,Barnstaple A39,Urban Traffic,n/m,n/m,0,1,n/m,n/m,n/m,1
+2020,BEL2,Belfast Centre,Urban Background,n/m,n/m,1,1,-,0,4,6
+2020,BEL1,Belfast Stockman's Lane,Urban Traffic,n/m,n/m,0,n/m,0,n/m,n/m,0
+2020,BIRR,Birmingham A4540 Roadside,Urban Traffic,n/m,n/m,2,2,0,n/m,13,15
+2020,AGRN,Birmingham Acocks Green,Urban Background,n/m,n/m,2,3,-,n/m,-,3
+2020,BMLD,Birmingham Ladywood,Urban Background,n/m,n/m,1,1,0,0,25,26
+2020,BLC2,Blackpool Marton,Urban Background,n/m,n/m,0,1,0,n/m,18,19
+2020,BRS8,Bristol St Paul's,Urban Background,n/m,n/m,2,2,0,n/m,33,36
+2020,BR11,Bristol Temple Way,Urban Traffic,n/m,n/m,3,n/m,0,n/m,n/m,3
+2020,BURW,Bury Whitefield Roadside,Urban Traffic,n/m,n/m,0,n/m,0,n/m,n/m,0
+2020,CA1,Camden Kerbside,Urban Traffic,n/m,n/m,3,6,0,n/m,n/m,6
+2020,CARD,Cardiff Centre,Urban Background,n/m,n/m,0,1,0,0,20,21
+2020,CNPR,Cardiff Newport Road,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2020,CARL,Carlisle Roadside,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2020,CHAT,Chatham Roadside,Urban Traffic,n/m,n/m,7,7,0,n/m,n/m,9
+2020,CHP,Chepstow A48,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2020,CHLG,Chesterfield Loundsley Green,Urban Background,n/m,n/m,1,2,0,n/m,n/m,2
+2020,CHS7,Chesterfield Roadside,Urban Traffic,n/m,n/m,2,3,0,n/m,n/m,3
+2020,COAL,Coventry Allesley,Urban Background,n/m,n/m,0,1,0,n/m,28,29
+2020,COBR,Coventry Binley Road,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2020,DERR,Derry Rosemount,Urban Background,n/m,n/m,0,1,0,0,5,6
+2020,EA8,Ealing Horn Lane,Urban Traffic,n/m,n/m,7,n/m,n/m,n/m,n/m,7
+2020,EB,Eastbourne,Urban Background,n/m,n/m,0,3,-,n/m,n/m,3
+2020,ED3,Edinburgh St Leonards,Urban Background,n/m,n/m,0,0,0,-,4,4
+2020,GHSR,Glasgow High Street,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2020,GLKP,Glasgow Townhead,Urban Background,n/m,n/m,0,0,0,n/m,1,1
+2020,GRAN,Grangemouth,Urban Industrial,n/m,n/m,0,0,0,4,n/m,4
+2020,GKA8,Greenock A8 Roadside,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2020,HUL2,Hull Freetown,Urban Background,n/m,n/m,1,1,0,0,13,14
+2020,HULR,Hull Holderness Road,Urban Traffic,n/m,n/m,3,n/m,0,n/m,n/m,3
+2020,INV2,Inverness,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2020,LEAM,Leamington Spa,Urban Background,n/m,n/m,0,0,0,n/m,31,31
+2020,LEAR,Leamington Spa Rugby Road,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2020,LEED,Leeds Centre,Urban Background,n/m,n/m,1,2,0,1,16,19
+2020,LED6,Leeds Headingley Kerbside,Urban Traffic,n/m,n/m,2,3,0,n/m,n/m,3
+2020,LEIR,Leicester A594 Roadside,Urban Traffic,n/m,n/m,3,n/m,0,n/m,n/m,3
+2020,LECU,Leicester University,Urban Background,n/m,n/m,0,1,0,n/m,19,20
+2020,LVP,Liverpool Speke,Urban Industrial,n/m,n/m,-,-,-,-,-,-
+2020,BEX,London Bexley,Suburban Background,n/m,n/m,-,8,0,n/m,n/m,8
+2020,CLL2,London Bloomsbury,Urban Background,n/m,n/m,4,3,0,-,18,22
+2020,LON6,London Eltham,Suburban Background,n/m,n/m,-,5,0,n/m,-,5
+2020,HRL,London Harlington,Urban Industrial,n/m,n/m,0,1,0,n/m,20,21
+2020,HP1,London Honor Oak Park,Urban Background,n/m,n/m,3,6,n/m,n/m,n/m,6
+2020,MY1,London Marylebone Road,Urban Traffic,-,-,-,2,0,0,9,10
+2020,KC1,London N. Kensington,Urban Background,n/m,n/m,0,3,0,0,39,41
+2020,TED2,London Teddington Bushy Park,Urban Background,n/m,n/m,2,2,n/m,n/m,n/m,2
+2020,MAN3,Manchester Piccadilly,Urban Background,n/m,n/m,1,2,0,0,5,7
+2020,MID,Middlesbrough,Urban Industrial,n/m,n/m,2,2,0,0,5,7
+2020,NEWC,Newcastle Centre,Urban Background,n/m,n/m,0,0,0,n/m,3,3
+2020,NCA3,Newcastle Cradlewell Roadside,Urban Traffic,n/m,n/m,0,n/m,0,n/m,n/m,0
+2020,NPT3,Newport,Urban Background,n/m,n/m,0,0,0,n/m,n/m,0
+2020,NO12,Norwich Lakenfields,Urban Background,n/m,n/m,0,0,0,n/m,25,25
+2020,NOTT,Nottingham Centre,Urban Background,n/m,n/m,0,2,0,-,17,19
+2020,NWBV,Nottingham Western Boulevard,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2020,OX8,Oxford St Ebbes,Urban Background,n/m,n/m,0,0,0,n/m,n/m,0
+2020,PLYM,Plymouth Centre,Urban Background,n/m,n/m,0,5,0,n/m,28,28
+2020,PT4,Port Talbot Margam,Urban Industrial,26,n/m,6,0,0,0,15,40
+2020,PMTH,Portsmouth,Urban Background,n/m,n/m,-,-,-,n/m,-,-
+2020,POAR,Portsmouth Anglesea Road,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2020,PRES,Preston,Urban Background,n/m,n/m,0,1,0,n/m,15,16
+2020,REA5,Reading London Road,Urban Traffic,n/m,n/m,3,n/m,0,n/m,n/m,3
+2020,REA1,Reading New Town,Urban Background,n/m,n/m,2,3,0,n/m,25,28
+2020,ECCL,Salford Eccles,Urban Background,n/m,n/m,0,1,0,n/m,n/m,1
+2020,SASH,Saltash Callington Road,Urban Traffic,n/m,n/m,0,1,n/m,n/m,n/m,1
+2020,SDY,Sandy Roadside,Urban Traffic,n/m,n/m,0,-,0,n/m,n/m,0
+2020,SCN2,Scunthorpe Town,Urban Industrial,n/m,n/m,3,n/m,0,0,n/m,3
+2020,SHDG,Sheffield Devonshire Green,Urban Background,n/m,n/m,5,2,0,n/m,17,21
+2020,SA33,Southampton A33,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2020,SOUT,Southampton Centre,Urban Background,n/m,n/m,1,3,0,0,26,28
+2020,SEND,Southend-on-Sea,Urban Background,n/m,n/m,1,5,0,n/m,21,25
+2020,SK5,Southwark A2 Old Kent Road,Urban Traffic,n/m,n/m,10,n/m,-,n/m,n/m,10
+2020,SHLW,St Helens Linkway,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2020,HOPE,Stanford-le-Hope Roadside,Urban Traffic,n/m,n/m,4,10,0,n/m,n/m,11
+2020,EAGL,Stockton-on-Tees Eaglescliffe,Urban Traffic,n/m,n/m,1,2,0,n/m,n/m,3
+2020,STKR,Stoke-on-Trent A50 Roadside,Urban Traffic,n/m,n/m,0,n/m,0,n/m,n/m,0
+2020,STOK,Stoke-on-Trent Centre,Urban Background,n/m,n/m,0,0,0,n/m,14,14
+2020,SUN2,Sunderland Silksworth,Urban Background,n/m,n/m,0,1,-,n/m,4,5
+2020,SWA1,Swansea Roadside,Urban Traffic,n/m,n/m,1,2,0,n/m,n/m,2
+2020,THUR,Thurrock,Urban Background,n/m,n/m,9,n/m,0,0,28,34
+2020,WAR,Warrington,Urban Industrial,n/m,n/m,1,3,0,n/m,n/m,3
+2020,WIG5,Wigan Centre,Urban Background,n/m,n/m,1,1,0,n/m,16,18
+2020,TRAN,Wirral Tranmere,Urban Background,n/m,n/m,0,4,0,n/m,17,21
+2020,WREX,Wrexham,Urban Traffic,n/m,n/m,0,4,0,-,n/m,4
+2020,YK10,York Bootham,Urban Background,n/m,n/m,1,3,-,n/m,n/m,3
+2020,YK11,York Fishergate,Urban Traffic,n/m,n/m,1,0,0,n/m,n/m,1
+2020,AH,Aston Hill,Rural Background,n/m,n/m,n/m,n/m,0,n/m,30,30
+2020,ACTH,Auchencorth Moss,Rural Background,n/m,n/m,0,0,n/m,n/m,4,4
+2020,BUSH,Bush Estate,Rural Background,n/m,n/m,n/m,n/m,0,n/m,4,4
+2020,MACK,Charlton Mackrell,Rural Background,n/m,n/m,n/m,n/m,0,n/m,24,24
+2020,CHBO,Chilbolton Observatory,Rural Background,n/m,n/m,0,0,0,0,41,41
+2020,ESK,Eskdalemuir,Rural Background,n/m,n/m,n/m,n/m,0,n/m,-,0
+2020,HM,High Muffles,Rural Background,n/m,n/m,n/m,n/m,-,n/m,-,-
+2020,LB,Ladybower,Rural Background,n/m,n/m,n/m,n/m,0,0,19,19
+2020,LERW,Lerwick,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,5,5
+2020,LN,Lough Navar,Rural Background,n/m,n/m,0,0,n/m,n/m,9,9
+2020,LH,Lullington Heath,Rural Background,n/m,n/m,n/m,n/m,-,0,37,37
+2020,PEMB,Narberth,Rural Background,n/m,n/m,1,0,0,-,21,21
+2020,ROCH,Rochester Stoke,Rural Background,n/m,n/m,7,8,0,-,30,36
+2020,SIB,Sibton,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,29,29
+2020,OSY,St Osyth,Rural Background,n/m,n/m,n/m,n/m,0,n/m,26,26
+2020,SV,Strathvaich,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,1,1
+2020,WEYB,Weybourne,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,20,20
+2020,WFEN,Wicken Fen,Rural Background,n/m,n/m,n/m,n/m,0,0,31,31
+2020,YW,Yarner Wood,Rural Background,n/m,n/m,n/m,n/m,0,n/m,35,35
+2021,ABD,Aberdeen,Urban Background,n/m,n/m,-,-,-,n/m,-,-
+2021,ABD9,Aberdeen Erroll Park,Urban Background,n/m,n/m,-,-,-,n/m,-,-
+2021,ARM6,Armagh Roadside,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2021,BPLE,Barnstaple A39,Urban Traffic,n/m,n/m,0,1,n/m,n/m,n/m,1
+2021,BEL2,Belfast Centre,Urban Background,n/m,n/m,0,0,0,0,1,1
+2021,BEL1,Belfast Stockman's Lane,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2021,BIRR,Birmingham A4540 Roadside,Urban Traffic,n/m,n/m,1,2,0,n/m,3,6
+2021,AGRN,Birmingham Acocks Green,Urban Background,n/m,n/m,-,-,-,n/m,-,-
+2021,BMLD,Birmingham Ladywood,Urban Background,n/m,n/m,1,1,0,0,11,12
+2021,BLC2,Blackpool Marton,Urban Background,n/m,n/m,0,1,0,n/m,10,11
+2021,BRS8,Bristol St Paul's,Urban Background,n/m,n/m,2,1,0,n/m,10,12
+2021,BR11,Bristol Temple Way,Urban Traffic,n/m,n/m,3,n/m,0,n/m,n/m,3
+2021,BURW,Bury Whitefield Roadside,Urban Traffic,n/m,n/m,0,n/m,0,n/m,n/m,0
+2021,CA1,Camden Kerbside,Urban Traffic,n/m,n/m,-,-,-,n/m,n/m,-
+2021,CARD,Cardiff Centre,Urban Background,n/m,n/m,0,1,0,0,10,11
+2021,CNPR,Cardiff Newport Road,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2021,CARM,Carlisle Morton A595,Urban Traffic,n/m,n/m,-,-,-,n/m,n/m,-
+2021,CARL,Carlisle Roadside,Urban Traffic,n/m,n/m,-,-,-,n/m,n/m,-
+2021,CHAT,Chatham Roadside,Urban Traffic,n/m,n/m,0,2,0,n/m,n/m,2
+2021,CHP,Chepstow A48,Urban Traffic,n/m,n/m,1,1,0,n/m,n/m,1
+2021,CHLG,Chesterfield Loundsley Green,Urban Background,n/m,n/m,0,1,-,n/m,n/m,1
+2021,CHS7,Chesterfield Roadside,Urban Traffic,n/m,n/m,1,1,0,n/m,n/m,1
+2021,COAL,Coventry Allesley,Urban Background,n/m,n/m,1,1,0,n/m,12,13
+2021,COBR,Coventry Binley Road,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2021,DERR,Derry Rosemount,Urban Background,n/m,n/m,0,0,0,0,2,2
+2021,EA8,Ealing Horn Lane,Urban Traffic,n/m,n/m,13,n/m,n/m,n/m,n/m,13
+2021,EB,Eastbourne,Urban Background,n/m,n/m,1,2,0,n/m,n/m,2
+2021,ED3,Edinburgh St Leonards,Urban Background,n/m,n/m,0,0,-,0,0,0
+2021,GHSR,Glasgow High Street,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2021,GLKP,Glasgow Townhead,Urban Background,n/m,n/m,0,0,0,n/m,1,1
+2021,GRAN,Grangemouth,Urban Industrial,n/m,n/m,0,0,-,0,n/m,0
+2021,GKA8,Greenock A8 Roadside,Urban Traffic,n/m,n/m,0,0,-,n/m,n/m,0
+2021,HUL2,Hull Freetown,Urban Background,n/m,n/m,0,0,0,0,3,3
+2021,HULR,Hull Holderness Road,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2021,INV2,Inverness,Urban Traffic,n/m,n/m,1,0,0,n/m,n/m,1
+2021,LEAM,Leamington Spa,Urban Background,n/m,n/m,0,1,0,n/m,16,17
+2021,LEAR,Leamington Spa Rugby Road,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2021,LEED,Leeds Centre,Urban Background,n/m,n/m,0,2,0,0,4,6
+2021,LED6,Leeds Headingley Kerbside,Urban Traffic,n/m,n/m,4,2,0,n/m,n/m,4
+2021,LEIR,Leicester A594 Roadside,Urban Traffic,n/m,n/m,4,n/m,0,n/m,n/m,4
+2021,LECU,Leicester University,Urban Background,n/m,n/m,0,0,0,n/m,6,6
+2021,LVP,Liverpool Speke,Urban Industrial,n/m,n/m,-,-,-,-,-,-
+2021,BEX,London Bexley,Suburban Background,n/m,n/m,1,4,0,n/m,n/m,4
+2021,CLL2,London Bloomsbury,Urban Background,n/m,n/m,0,-,0,0,5,5
+2021,LON6,London Eltham,Suburban Background,n/m,n/m,-,2,0,n/m,-,2
+2021,HRL,London Harlington,Urban Industrial,n/m,n/m,0,1,0,n/m,9,10
+2021,HP1,London Honor Oak Park,Urban Background,n/m,n/m,0,2,n/m,n/m,n/m,2
+2021,MY1,London Marylebone Road,Urban Traffic,-,2,1,2,0,0,0,2
+2021,KC1,London N. Kensington,Urban Background,n/m,n/m,1,2,0,-,11,13
+2021,TED2,London Teddington Bushy Park,Urban Background,n/m,n/m,0,2,n/m,n/m,n/m,2
+2021,MAN3,Manchester Piccadilly,Urban Background,n/m,n/m,1,1,0,0,1,3
+2021,MID,Middlesbrough,Urban Industrial,n/m,n/m,0,1,0,0,1,2
+2021,NEWC,Newcastle Centre,Urban Background,n/m,n/m,0,0,0,n/m,0,0
+2021,NCA3,Newcastle Cradlewell Roadside,Urban Traffic,n/m,n/m,0,n/m,0,n/m,n/m,0
+2021,NPT3,Newport,Urban Background,n/m,n/m,0,1,0,n/m,n/m,1
+2021,NO12,Norwich Lakenfields,Urban Background,n/m,n/m,1,1,0,n/m,8,9
+2021,NOTT,Nottingham Centre,Urban Background,n/m,n/m,1,1,0,0,4,5
+2021,NWBV,Nottingham Western Boulevard,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2021,OX8,Oxford St Ebbes,Urban Background,n/m,n/m,1,1,0,n/m,n/m,1
+2021,PLYM,Plymouth Centre,Urban Background,n/m,n/m,0,0,0,n/m,5,5
+2021,PT4,Port Talbot Margam,Urban Industrial,0,n/m,28,2,0,0,4,32
+2021,PMTH,Portsmouth,Urban Background,n/m,n/m,-,-,-,n/m,-,-
+2021,POAR,Portsmouth Anglesea Road,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2021,PRES,Preston,Urban Background,n/m,n/m,0,1,0,n/m,8,9
+2021,REA5,Reading London Road,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2021,REA1,Reading New Town,Urban Background,n/m,n/m,1,2,0,n/m,-,2
+2021,ECCL,Salford Eccles,Urban Background,n/m,n/m,1,1,0,n/m,n/m,1
+2021,SASH,Saltash Callington Road,Urban Traffic,n/m,n/m,0,1,n/m,n/m,n/m,1
+2021,SDY,Sandy Roadside,Urban Traffic,n/m,n/m,-,-,-,n/m,n/m,-
+2021,SCN2,Scunthorpe Town,Urban Industrial,n/m,n/m,3,n/m,0,0,n/m,3
+2021,SHDG,Sheffield Devonshire Green,Urban Background,n/m,n/m,1,1,-,n/m,4,5
+2021,SA33,Southampton A33,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2021,SOUT,Southampton Centre,Urban Background,n/m,n/m,2,2,0,0,3,6
+2021,SEND,Southend-on-Sea,Urban Background,n/m,n/m,0,1,0,n/m,5,5
+2021,SK5,Southwark A2 Old Kent Road,Urban Traffic,n/m,n/m,7,n/m,0,n/m,n/m,7
+2021,SHLW,St Helens Linkway,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2021,HOPE,Stanford-le-Hope Roadside,Urban Traffic,n/m,n/m,2,3,0,n/m,n/m,4
+2021,EAGL,Stockton-on-Tees Eaglescliffe,Urban Traffic,n/m,n/m,0,1,0,n/m,n/m,1
+2021,STKR,Stoke-on-Trent A50 Roadside,Urban Traffic,n/m,n/m,1,n/m,0,n/m,n/m,1
+2021,STOK,Stoke-on-Trent Centre,Urban Background,n/m,n/m,1,1,0,n/m,7,8
+2021,SUN2,Sunderland Silksworth,Urban Background,n/m,n/m,0,0,-,n/m,1,1
+2021,SWA1,Swansea Roadside,Urban Traffic,n/m,n/m,4,3,0,n/m,n/m,4
+2021,THUR,Thurrock,Urban Background,n/m,n/m,1,n/m,0,0,5,6
+2021,WAR,Warrington,Urban Industrial,n/m,n/m,1,1,0,n/m,n/m,1
+2021,WIG5,Wigan Centre,Urban Background,n/m,n/m,1,1,0,n/m,5,6
+2021,TRAN,Wirral Tranmere,Urban Background,n/m,n/m,1,1,0,n/m,9,10
+2021,WREX,Wrexham,Urban Traffic,n/m,n/m,1,1,0,0,n/m,1
+2021,YK10,York Bootham,Urban Background,n/m,n/m,0,0,0,n/m,n/m,0
+2021,YK11,York Fishergate,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2021,AH,Aston Hill,Rural Background,n/m,n/m,n/m,n/m,0,n/m,14,14
+2021,ACTH,Auchencorth Moss,Rural Background,n/m,n/m,0,0,n/m,n/m,5,5
+2021,BUSH,Bush Estate,Rural Background,n/m,n/m,n/m,n/m,0,n/m,3,3
+2021,MACK,Charlton Mackrell,Rural Background,n/m,n/m,n/m,n/m,0,n/m,30,30
+2021,CHBO,Chilbolton Observatory,Rural Background,n/m,n/m,2,2,0,0,13,15
+2021,ESK,Eskdalemuir,Rural Background,n/m,n/m,n/m,n/m,-,n/m,-,-
+2021,HM,High Muffles,Rural Background,n/m,n/m,n/m,n/m,0,n/m,8,8
+2021,LB,Ladybower,Rural Background,n/m,n/m,n/m,n/m,0,0,13,13
+2021,LERW,Lerwick,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,-,-
+2021,LN,Lough Navar,Rural Background,n/m,n/m,0,0,n/m,n/m,5,5
+2021,LH,Lullington Heath,Rural Background,n/m,n/m,n/m,n/m,-,-,10,10
+2021,PEMB,Narberth,Rural Background,n/m,n/m,0,0,0,0,11,11
+2021,ROCH,Rochester Stoke,Rural Background,n/m,n/m,1,3,0,0,10,13
+2021,SIB,Sibton,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,11,11
+2021,OSY,St Osyth,Rural Background,n/m,n/m,n/m,n/m,0,n/m,11,11
+2021,SV,Strathvaich,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,3,3
+2021,WEYB,Weybourne,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,4,4
+2021,WFEN,Wicken Fen,Rural Background,n/m,n/m,n/m,n/m,0,0,12,12
+2021,YW,Yarner Wood,Rural Background,n/m,n/m,n/m,n/m,0,n/m,23,23
+2022,ABD9,Aberdeen Erroll Park,Urban Background,n/m,n/m,1,0,0,n/m,3,4
+2022,ARM6,Armagh Roadside,Urban Traffic,n/m,n/m,0,n/m,0,n/m,n/m,0
+2022,BPLE,Barnstaple A39,Urban Traffic,n/m,n/m,-,-,n/m,n/m,n/m,-
+2022,BEL2,Belfast Centre,Urban Background,n/m,n/m,4,2,0,0,2,6
+2022,BEL1,Belfast Stockman's Lane,Urban Traffic,n/m,n/m,7,n/m,0,n/m,n/m,7
+2022,BIRR,Birmingham A4540 Roadside,Urban Traffic,n/m,n/m,4,4,0,n/m,8,13
+2022,BMLD,Birmingham Ladywood,Urban Background,n/m,n/m,2,2,0,0,22,23
+2022,BLC2,Blackpool Marton,Urban Background,n/m,n/m,4,4,0,n/m,12,15
+2022,BDMP,Borehamwood Meadow Park,Urban Background,n/m,n/m,1,1,0,n/m,n/m,1
+2022,BRS8,Bristol St Paul's,Urban Background,n/m,n/m,2,3,0,n/m,18,21
+2022,BR11,Bristol Temple Way,Urban Traffic,n/m,n/m,4,n/m,0,n/m,n/m,4
+2022,BOTR,Burton-on-Trent Horninglow,Urban Background,n/m,n/m,-,-,0,n/m,n/m,0
+2022,BURW,Bury Whitefield Roadside,Urban Traffic,n/m,n/m,4,n/m,0,n/m,n/m,4
+2022,CA1,Camden Kerbside,Urban Traffic,n/m,n/m,-,-,0,n/m,n/m,0
+2022,CANT,Canterbury,Urban Background,n/m,n/m,-,-,0,n/m,31,31
+2022,CARD,Cardiff Centre,Urban Background,n/m,n/m,0,0,0,0,16,16
+2022,CNPR,Cardiff Newport Road,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2022,CARM,Carlisle Morton A595,Urban Traffic,n/m,n/m,1,2,0,n/m,n/m,2
+2022,CHAT,Chatham Roadside,Urban Traffic,n/m,n/m,5,5,0,n/m,n/m,7
+2022,CHP,Chepstow A48,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2022,CHLG,Chesterfield Loundsley Green,Urban Background,n/m,n/m,1,3,0,n/m,n/m,3
+2022,CHS7,Chesterfield Roadside,Urban Traffic,n/m,n/m,3,5,0,n/m,n/m,5
+2022,COAL,Coventry Allesley,Urban Background,n/m,n/m,1,0,0,n/m,24,24
+2022,COBR,Coventry Binley Road,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2022,COPP,Crewe Coppenhall,Urban Background,n/m,n/m,-,-,0,n/m,n/m,0
+2022,DERR,Derry Rosemount,Urban Background,n/m,n/m,0,5,0,0,0,5
+2022,DYAG,Dewsbury Ashworth Grove,Urban Background,n/m,n/m,-,-,0,n/m,n/m,0
+2022,EA8,Ealing Horn Lane,Urban Traffic,n/m,n/m,22,n/m,n/m,n/m,n/m,22
+2022,EB,Eastbourne,Urban Background,n/m,n/m,0,2,0,n/m,n/m,2
+2022,ED3,Edinburgh St Leonards,Urban Background,n/m,n/m,1,2,0,0,-,2
+2022,GHSR,Glasgow High Street,Urban Traffic,n/m,n/m,0,1,0,n/m,n/m,1
+2022,GLKP,Glasgow Townhead,Urban Background,n/m,n/m,1,1,0,n/m,4,5
+2022,GRAN,Grangemouth,Urban Industrial,n/m,n/m,0,2,0,2,n/m,4
+2022,GKA8,Greenock A8 Roadside,Urban Traffic,n/m,n/m,4,2,0,n/m,n/m,4
+2022,HSAW,Hartlepool St Abbs Walk,Urban Background,n/m,n/m,-,-,0,n/m,n/m,0
+2022,HONI,Honiton,Urban Background,n/m,n/m,0,0,0,n/m,n/m,0
+2022,HUL2,Hull Freetown,Urban Background,n/m,n/m,7,6,0,0,10,18
+2022,HULR,Hull Holderness Road,Urban Traffic,n/m,n/m,5,n/m,0,n/m,n/m,5
+2022,IMGM,Immingham Woodlands Avenue,Urban Background,n/m,n/m,-,-,0,n/m,n/m,0
+2022,INV2,Inverness,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2022,LEAM,Leamington Spa,Urban Background,n/m,n/m,0,0,0,n/m,27,27
+2022,LEAR,Leamington Spa Rugby Road,Urban Traffic,n/m,n/m,0,0,0,n/m,n/m,0
+2022,LEED,Leeds Centre,Urban Background,n/m,n/m,5,5,0,0,12,18
+2022,LED6,Leeds Headingley Kerbside,Urban Traffic,n/m,n/m,6,7,0,n/m,n/m,9
+2022,LEIR,Leicester A594 Roadside,Urban Traffic,n/m,n/m,5,n/m,0,n/m,n/m,5
+2022,LECU,Leicester University,Urban Background,n/m,n/m,1,1,0,n/m,22,23
+2022,LVP,Liverpool Speke,Urban Industrial,n/m,n/m,2,-,0,0,14,15
+2022,BEX,London Bexley,Suburban Background,n/m,n/m,5,4,0,n/m,n/m,5
+2022,CLL2,London Bloomsbury,Urban Background,n/m,n/m,3,-,0,0,13,16
+2022,LON6,London Eltham,Suburban Background,n/m,n/m,-,-,-,n/m,-,-
+2022,HRL,London Harlington,Urban Industrial,n/m,n/m,2,1,0,n/m,23,24
+2022,HIL,London Hillingdon,Urban Background,n/m,n/m,-,-,0,n/m,-,0
+2022,HP1,London Honor Oak Park,Urban Background,n/m,n/m,2,2,n/m,n/m,n/m,3
+2022,MY1,London Marylebone Road,Urban Traffic,-,4,6,5,1,0,0,9
+2022,KC1,London N. Kensington,Urban Background,n/m,n/m,4,2,0,0,26,27
+2022,TED2,London Teddington Bushy Park,Urban Background,n/m,n/m,1,1,n/m,n/m,n/m,1
+2022,MAN3,Manchester Piccadilly,Urban Background,n/m,n/m,3,2,0,0,8,11
+2022,MID,Middlesbrough,Urban Background,n/m,n/m,3,1,0,0,6,9
+2022,NEWC,Newcastle Centre,Urban Background,n/m,n/m,3,3,0,n/m,4,7
+2022,NCA3,Newcastle Cradlewell Roadside,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2022,NPT3,Newport,Urban Background,n/m,n/m,0,0,-,n/m,n/m,0
+2022,NO12,Norwich Lakenfields,Urban Background,n/m,n/m,4,4,0,n/m,22,26
+2022,NOTT,Nottingham Centre,Urban Background,n/m,n/m,6,4,0,0,8,14
+2022,NWBV,Nottingham Western Boulevard,Urban Traffic,n/m,n/m,3,n/m,0,n/m,n/m,3
+2022,OX8,Oxford St Ebbes,Urban Background,n/m,n/m,0,0,0,n/m,n/m,0
+2022,PLYM,Plymouth Centre,Urban Background,n/m,n/m,1,1,0,n/m,12,13
+2022,PT4,Port Talbot Margam,Urban Industrial,19,n/m,18,1,0,0,13,31
+2022,PMTH,Portsmouth,Urban Background,n/m,n/m,0,0,0,n/m,21,21
+2022,POAR,Portsmouth Anglesea Road,Urban Traffic,n/m,n/m,0,n/m,0,n/m,n/m,0
+2022,PRES,Preston,Urban Background,n/m,n/m,4,4,0,n/m,12,16
+2022,REA5,Reading London Road,Urban Traffic,n/m,n/m,0,n/m,0,n/m,n/m,0
+2022,REA1,Reading New Town,Urban Background,n/m,n/m,0,1,-,n/m,20,21
+2022,ECCL,Salford Eccles,Urban Background,n/m,n/m,6,8,0,n/m,-,8
+2022,SASH,Saltash Callington Road,Urban Traffic,n/m,n/m,0,0,n/m,n/m,n/m,0
+2022,SDY,Sandy Roadside,Urban Traffic,n/m,n/m,1,1,0,n/m,n/m,1
+2022,SCN2,Scunthorpe Town,Urban Industrial,n/m,n/m,12,n/m,0,0,n/m,12
+2022,SHDG,Sheffield Devonshire Green,Urban Background,n/m,n/m,5,4,0,n/m,13,18
+2022,SHE,Sheffield Tinsley,Urban Background,n/m,n/m,-,-,-,n/m,n/m,-
+2022,SA33,Southampton A33,Urban Traffic,n/m,n/m,2,n/m,0,n/m,n/m,2
+2022,SOUT,Southampton Centre,Urban Background,n/m,n/m,0,1,0,0,17,18
+2022,SEND,Southend-on-Sea,Urban Background,n/m,n/m,3,4,0,n/m,14,19
+2022,SK5,Southwark A2 Old Kent Road,Urban Traffic,n/m,n/m,7,n/m,0,n/m,n/m,7
+2022,SHLW,St Helens Linkway,Urban Traffic,n/m,n/m,6,n/m,0,n/m,n/m,6
+2022,HOPE,Stanford-le-Hope Roadside,Urban Traffic,n/m,n/m,3,4,0,n/m,n/m,5
+2022,EAGL,Stockton-on-Tees Eaglescliffe,Urban Traffic,n/m,n/m,1,2,0,n/m,n/m,2
+2022,STKR,Stoke-on-Trent A50 Roadside,Urban Traffic,n/m,n/m,6,n/m,0,n/m,n/m,6
+2022,STOK,Stoke-on-Trent Centre,Urban Background,n/m,n/m,4,2,0,n/m,9,13
+2022,SUN2,Sunderland Silksworth,Urban Background,n/m,n/m,5,5,0,n/m,6,11
+2022,SWA1,Swansea Roadside,Urban Traffic,n/m,n/m,1,1,0,n/m,n/m,2
+2022,SWHO,Swindon Walcot,Urban Background,n/m,n/m,-,-,0,n/m,n/m,0
+2022,TDHD,Telford Hollinswood,Urban Background,n/m,n/m,-,-,0,n/m,n/m,0
+2022,THUR,Thurrock,Urban Background,n/m,n/m,2,-,0,0,22,24
+2022,WAR,Warrington,Urban Background,n/m,n/m,1,2,-,n/m,n/m,3
+2022,WIG5,Wigan Centre,Urban Background,n/m,n/m,5,8,0,n/m,13,20
+2022,TRAN,Wirral Tranmere,Urban Background,n/m,n/m,5,6,0,n/m,14,19
+2022,WREX,Wrexham,Urban Traffic,n/m,n/m,1,1,0,0,n/m,1
+2022,YK10,York Bootham,Urban Background,n/m,n/m,2,4,0,n/m,n/m,4
+2022,YK11,York Fishergate,Urban Traffic,n/m,n/m,5,2,0,n/m,n/m,6
+2022,AH,Aston Hill,Rural Background,n/m,n/m,n/m,n/m,0,n/m,21,21
+2022,ACTH,Auchencorth Moss,Rural Background,n/m,n/m,0,0,n/m,n/m,5,5
+2022,BUSH,Bush Estate,Rural Background,n/m,n/m,n/m,n/m,0,n/m,6,6
+2022,MACK,Charlton Mackrell,Rural Background,n/m,n/m,-,-,0,n/m,27,27
+2022,CHBO,Chilbolton Observatory,Rural Background,n/m,n/m,1,0,0,0,34,34
+2022,ESK,Eskdalemuir,Rural Background,n/m,n/m,n/m,n/m,-,n/m,-,-
+2022,HM,High Muffles,Rural Background,n/m,n/m,-,-,0,n/m,24,24
+2022,LB,Ladybower,Rural Background,n/m,n/m,n/m,n/m,0,0,23,23
+2022,LERW,Lerwick,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,-,-
+2022,LN,Lough Navar,Rural Background,n/m,n/m,0,0,n/m,n/m,4,4
+2022,LH,Lullington Heath,Rural Background,n/m,n/m,-,-,0,-,28,28
+2022,PEMB,Narberth,Rural Background,n/m,n/m,2,1,0,0,16,16
+2022,ROCH,Rochester Stoke,Rural Background,n/m,n/m,6,5,0,0,22,28
+2022,SIB,Sibton,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,27,27
+2022,OSY,St Osyth,Rural Background,n/m,n/m,0,0,0,n/m,28,28
+2022,SV,Strathvaich,Rural Background,n/m,n/m,n/m,n/m,n/m,n/m,7,7
+2022,WEYB,Weybourne,Rural Background,n/m,n/m,-,-,n/m,n/m,19,19
+2022,WFEN,Wicken Fen,Rural Background,n/m,n/m,-,-,0,-,29,29
+2022,YW,Yarner Wood,Rural Background,n/m,n/m,-,-,0,n/m,42,42
